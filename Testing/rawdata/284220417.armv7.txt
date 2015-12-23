@@ -1,0 +1,2320 @@
+[ classRef_UIColor  "colorWithRed:green:blue:alpha:"]: 4
+[  "setNetworkTypeFromFlags:"]: 1
+[ _OBJC_CLASS_$_UIView  "insertSublayer:atIndex:"]: 2
+[ _OBJC_CLASS_$_GADNotification  "isGMSGNotificationURL:"]: 1
+[ _OBJC_CLASS_$_UISearchDisplayController  "alloc"]: 1
+[  "localizedDescription"]: 2
+[ _OBJC_CLASS_$_GADWebView  "autorelease"]: 1
+[  "keypadPresetForRate:"]: 1
+[ _OBJC_CLASS_$_NSDate  "dateWithTimeIntervalSinceNow:"]: 2
+[ _OBJC_CLASS_$_NSURLResponse  "autorelease"]: 1
+[  "text"]: 5
+[ _OBJC_CLASS_$_AddCurrencyViewController  "alloc"]: 3
+[  "path"]: 4
+[ _OBJC_CLASS_$_NSNotificationCenter  "postNotification:"]: 11
+[ _OBJC_CLASS_$_KeypadViewController  "setCurrencyAmount:"]: 2
+[  _OBJC_CLASS_$_UIImageView]: 1
+[ _OBJC_CLASS_$_NSString  "autorelease"]: 7
+[  "statusCode"]: 2
+[ _OBJC_CLASS_$_UIColor  "darkGrayColor"]: 1
+[ _OBJC_CLASS_$_GADMConfig  "peekAdTypeFromConfig:"]: 1
+[  "unregisterFromJavaScriptNotifications"]: 2
+[ _OBJC_CLASS_$_NSUserDefaults  "synchronize"]: 15
+[ _OBJC_CLASS_$_UIColor  "whiteColor"]: 16
+[ _OBJC_CLASS_$_GAD_SBJSON  "stringWithObject:error:"]: 2
+[ _OBJC_CLASS_$_GADCachedFile  "initWithDelegate:URL:"]: 2
+[  "tableView:titleForHeaderInSection:"]: 2
+[  "toolbarTitleView"]: 1
+[ _OBJC_CLASS_$_UIAccelerometer  selRef_setDelegate_; "setDelegate:"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "timeIntervalSinceNow"]: 1
+[  selRef_subviews; "subviews"]: 2
+[  "setInterstitialDelegate:"]: 1
+[  "selectRowAtIndexPath:animated:scrollPos"...]: 5
+[  "getAdFromAdapterWithType:"]: 1
+[  "hideStatusBar"]: 1
+[ _OBJC_CLASS_$_NSNumber  "numberWithFloat:"]: 18
+[ _OBJC_CLASS_$_GADWebAppViewControllerPrivate  "init"]: 1
+[ _OBJC_CLASS_$_NSMutableURLRequest  "setHTTPShouldHandleCookies:"]: 1
+[  "cancelButtonIndex"]: 4
+[ _OBJC_CLASS_$_GADIntrinsicImages  "init"]: 1
+[ _OBJC_CLASS_$_GADMacros  "willPresentScreen"]: 1
+[ _OBJC_CLASS_$_GADRequest  "request"]: 3
+[ _OBJC_CLASS_$_NSArray  "initWithContentsOfFile:"]: 6
+[ _OBJC_CLASS_$_LegalViewController  "alloc"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCell  "initWitReuseIdentifier:"]: 1
+[ _OBJC_CLASS_$_NSSet  "setWithObject:"]: 1
+[ _OBJC_CLASS_$_NSAssertionHandler  "handleFailureInMethod:object:file:lineN"...]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "setFloat:forKey:"]: 7
+[  "tableView:didSelectRowAtIndexPath:"]: 2
+[  "headerColor"]: 2
+[  "parameters"]: 4
+[  "setDragging:"]: 5
+[  "drain"]: 1
+[  "reset"]: 9
+[ _OBJC_CLASS_$_NSDictionary  "dictionaryWithObject:forKey:"]: 2
+[ _OBJC_CLASS_$_UINavigationController  "setModalPresentationStyle:"]: 3
+[ _OBJC_CLASS_$_UIMenuController  "isMenuVisible"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "appendString:"]: 11
+[ _OBJC_CLASS_$_NSError  "errorWithDomain:code:userInfo:"]: 8
+[ _OBJC_CLASS_$_GADInterstitial  "setAdUnitID:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "class"]: 1
+[  "indexPathForCurrency:"]: 2
+[ _OBJC_CLASS_$_UIApplication  "performSelector:withObject:afterDelay:"]: 1
+[ "EEE MMM d HH:mm:ss yyyy"  "retain"]: 1
+[  "insertRowsAtIndexPaths:withRowAnimation"...]: 2
+[ _OBJC_CLASS_$_UIDevice  "respondsToSelector:"]: 76
+[ _OBJC_CLASS_$_UIAlertView  "addButtonWithTitle:"]: 1
+[  "locale"]: 2
+[ _OBJC_CLASS_$_NSMutableString  selRef_appendString_; "appendString:"]: 1
+[ "relinquishScreen"  "objectForKey:"]: 3
+[  "addValue:numberForKey:"]: 5
+[  "gadmConfig"]: 6
+[ _OBJC_CLASS_$_NSMutableArray  "arrayWithObjects:"]: 2
+[  "setLeftBarButtonItem:"]: 4
+[  "reloadData"]: 11
+[  "insertObject:atIndex:"]: 4
+[ _OBJC_CLASS_$_GADCustomEventRequest  "initWithConnector:"]: 2
+[  "getInterstitial"]: 1
+[  "accuracy"]: 5
+[ _OBJC_CLASS_$_NSMutableString  selRef_string; "string"]: 1
+[  "setRequestingConnector:"]: 3
+[ _OBJC_CLASS_$_GADStatistics  "adapterExitCodesParameter"]: 2
+[ classRef_NSMutableString  "stringByAppendingString:"]: 1
+[  "loadDidFinish:baseURL:"]: 3
+[  "setSearchBar:"]: 1
+[  "orientation"]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "initWithRequest:"]: 1
+[  "setDestinationURL:"]: 1
+[  _OBJC_CLASS_$_CurrencySourceCell]: 2
+[  "isFirstGADViewController"]: 4
+[  "adSizeDelegate"]: 1
+[ _OBJC_CLASS_$_NSMutableString  selRef_stringWithString_; "stringWithString:"]: 1
+[ _OBJC_CLASS_$_Downloader  "alloc"]: 1
+[  "userDefaultsKey"]: 4
+[ _OBJC_CLASS_$_GADMSharedContext  "sharedInstance"]: 2
+[  "adapter:clickDidOccurInBanner:"]: 3
+[  "keypad0"]: 3
+[  "stopBeingDelegate"]: 4
+[  "setRoundTop:"]: 6
+[  "setMaxDepth:"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "count"]: 3
+[  "presentComposerController:"]: 2
+[ "stringWithFormat:"  "requestBannerAd:parameter:label:request"...]: 1
+[  "presentFromViewController:"]: 3
+[  "setUrlToLoad:"]: 3
+[ classRef_UIDevice  "userInterfaceIdiom"]: 2
+[ _OBJC_CLASS_$_NSMutableSet  "alloc"]: 1
+[  "currencyNameLabel"]: 10
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "setRecipients:"]: 1
+[  "cachedResponseForURL:"]: 2
+[ _OBJC_CLASS_$_NSDate  "class"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "componentsSeparatedByString:"]: 1
+[  _OBJC_CLASS_$_UISwitch]: 1
+[ _OBJC_CLASS_$_NSDictionary  "isEqualToString:"]: 2
+[  "distanceMoved"]: 9
+[ _OBJC_CLASS_$_GADCachedURLResponse  "setDestinationURL:"]: 1
+[ _OBJC_CLASS_$_UIFont  "systemFontOfSize:"]: 8
+[ _OBJC_CLASS_$_NSCompoundPredicate  "evaluateWithObject:"]: 1
+[ _OBJC_CLASS_$_GADMConfig  "refreshInterval"]: 1
+[  "userLongitude"]: 2
+[ _OBJC_CLASS_$_GADNotification  "name"]: 2
+[ _OBJC_CLASS_$_SettingsViewController  "setDelegate:"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setText:"]: 14
+[  "add:"]: 1
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  "setDoPad:"]: 1
+[  "setHighlighted:"]: 3
+[  "bottomRightCorner"]: 2
+[  "latitude"]: 6
+[ _OBJC_CLASS_$_NSData  "length"]: 1
+[  "gadmWillLeaveApplication"]: 2
+[  "setTestDevices:"]: 1
+[ _OBJC_CLASS_$_UIDevice  "orientation"]: 2
+[  "setSeparatorStyle:"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "stringFromNumber:"]: 4
+[  "subarrayWithRange:"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "initWithDictionary:"]: 1
+[  "setTitle:forSegmentAtIndex:"]: 7
+[ _OBJC_CLASS_$_NSNumberFormatter  "length"]: 6
+[ _OBJC_CLASS_$_UIDevice  "runPhoneScreenshotsForIsoCode:withDurat"...]: 1
+[ _OBJC_CLASS_$_Currency  "setIsoCode:"]: 6
+[  "presentFromRootViewController:"]: 3
+[  "config"]: 3
+[  "adapter:didFailInterstitial:"]: 2
+[ _OBJC_CLASS_$_GADMacros  "setUserInteractionEnabled:"]: 1
+[  "currencyName"]: 8
+[  "dataSource"]: 2
+[ _OBJC_CLASS_$_UITableView  "alloc"]: 1
+[  "numberOfSectionsInTableView:"]: 4
+[  "setCounter:"]: 1
+[ _OBJC_CLASS_$_GADNetworkChecker  "networkTypeString"]: 2
+[  "setDataDetectorTypes:"]: 2
+[  "postOnShowEvent"]: 2
+[ _OBJC_CLASS_$_SettingsViewController  "init"]: 1
+[ _OBJC_CLASS_$_UIPasteboard  "setString:"]: 2
+[ _OBJC_CLASS_$_GADBrowserController  "setOpeningWebView:"]: 1
+[  "setPlaceholder:"]: 1
+[ _OBJC_CLASS_$_GADCachedFile  "alloc"]: 2
+[ _OBJC_CLASS_$_GADInterstitialAppController  "initWithWindow:image:timeout:interstiti"...]: 1
+[  "stringByReplacingPercentEscapesUsingEnc"...]: 2
+[  "setForwardButton:"]: 1
+[ classRef_NSBundle  "mainBundle"]: 1
+[  "gadmDidReceiveAd:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "alloc"]: 1
+[ selRef_presentSelfFrom_  "setIdleTimerDisabled:"]: 1
+[  "roundBottom"]: 5
+[ selRef_cleanUpConnection  "cachedFile:downloadDidFail:"]: 1
+[  "setAdSize:"]: 5
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "refererURLFromRequest:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "countByEnumeratingWithState:objects:cou"...]: 4
+[  "forceRotateToOrientation:"]: 2
+[  "setItems:"]: 1
+[ _OBJC_CLASS_$_GADMacros  "delegateManager"]: 1
+[  "setStripedBackgroundView:"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "deviceSubmodel"]: 1
+[ _OBJC_CLASS_$_GAD_SBJSON  "objectWithString:error:"]: 2
+[ _OBJC_CLASS_$_GADNetworkUtilities  "objectForKey:"]: 6
+[  "URLProtocol:didReceiveResponse:cacheSto"...]: 1
+[  "viewDidAppear"]: 2
+[ classRef_NSMutableArray  "initWithCapacity:"]: 2
+[  "setShowsCancelButton:"]: 1
+[  "setIsExpandable:"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "sharedInstance"]: 11
+[ _OBJC_CLASS_$_GADMNSURLConnectionFactory  "init"]: 1
+[  "receivedConnector"]: 19
+[  "cachedFile:downloadDidFail:"]: 3
+[  "addObject:"]: 10
+[ _OBJC_CLASS_$_UIActionSheet  "symbol"]: 1
+[  "class"]: 11
+[ _OBJC_CLASS_$_NSNotificationCenter  "postNotificationName:object:userInfo:"]: 1
+[  "dynamic_localizedStringForKey:value:tab"...]: 1
+[ _OBJC_CLASS_$_GADTimingManager  "alloc"]: 1
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "autorelease"]: 1
+[ _OBJC_CLASS_$_UIDevice  "currenciesController"]: 3
+[ _OBJC_CLASS_$_UITableViewCell  "insertSubview:aboveSubview:"]: 1
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorBanner  "alloc"]: 1
+[ _OBJC_CLASS_$_KeypadViewController  "setCurrencySymbol:"]: 2
+[ _OBJC_CLASS_$_GADRequest  "registerAdNetworkExtras:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "setGender:"]: 1
+[  selRef_scanRestOfDictionary_error_]: 1
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  selRef_rfc4648Base64WebsafeStringEncoding; "rfc4648Base64WebsafeStringEncoding"]: 1
+[  "setReferringURLToLoad:"]: 1
+[  "appendQueryParameters:toURL:"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "initWithStyle:reuseIdentifier:"]: 9
+[  "clear"]: 2
+[  "setTintColor:"]: 3
+[  "removeFromSuperview"]: 12
+[ _OBJC_CLASS_$_NSArray  "arrayWithArray:"]: 2
+[  "loadedFirstPage:"]: 1
+[ _OBJC_CLASS_$_MKPolygonView  "setFillColor:"]: 1
+[ _OBJC_CLASS_$_NSMutableURLRequest  "requestWithURL:"]: 4
+[ _OBJC_CLASS_$_GADNotification  "notificationFromURL:"]: 2
+[ _OBJC_CLASS_$_NSTimer  "retain"]: 2
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_NSIndexPath]: 1
+[ _OBJC_CLASS_$_Calculator  "hasError"]: 1
+[  "audioRoute"]: 1
+[ _OBJC_CLASS_$_GADRequest  "setAdditionalParameters:"]: 2
+[ classRef_UIDevice  "intValue"]: 3
+[  "replaceObjectAtIndex:withObject:"]: 1
+[  "setObject:forKey:"]: 18
+[ _OBJC_CLASS_$_NSMutableString  "substringFromIndex:"]: 1
+[ _OBJC_CLASS_$_GADCachedURLResponse  "initWithResponse:data:"]: 1
+[  "removeObject:"]: 2
+[  "countOfCurrenciesBySource"]: 7
+[ _OBJC_CLASS_$_GADNotification  "isEqualToString:"]: 1
+[  "pathForResource:ofType:inDirectory:"]: 1
+[  "flexibleSpaceButton"]: 4
+[ "-"  "stringByAppendingString:"]: 1
+[ _OBJC_CLASS_$_GADSearchObjectPrivate  "initWithView:"]: 1
+[  "fragment"]: 1
+[  "analyticsIds"]: 1
+[  "userInterfaceIdiom"]: 1
+[ _OBJC_CLASS_$_GADCachedURLResponse  "setExpireDate:"]: 1
+[  "countOfCurrencies"]: 10
+[ _OBJC_CLASS_$_GADStatistics  "init"]: 1
+[ _OBJC_CLASS_$_GADNetworkChecker  "sharedChecker"]: 3
+[  "rowHeight"]: 2
+[ _OBJC_CLASS_$_GADStatisticsCore  "compare:"]: 1
+[ _OBJC_CLASS_$_NSHTTPURLResponse  "class"]: 4
+[  "isMakingRequest"]: 2
+[  "setPrompt:"]: 2
+[ _OBJC_CLASS_$_UIApplication  "setStatusBarStyle:animated:"]: 1
+[ _OBJC_CLASS_$_SettingsViewController  "alloc"]: 1
+[  "setNewAdSize:"]: 2
+[  "setReceivedConnector:"]: 2
+[  "didReceiveAppEvent:withInfo:"]: 2
+[  "setCurrentContentSizeIdentifier:"]: 1
+[  "setViewHasAppeared:"]: 1
+[  "startAnimating"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "setCurrencySymbol:"]: 4
+[ _OBJC_CLASS_$_GADLocation  "initWithDescription:"]: 2
+[  classRef_UIDevice]: 2
+[ _OBJC_CLASS_$_GADUIWebViewGestureDelgate  "alloc"]: 1
+[  "countryCode"]: 2
+[  "addTarget:action:"]: 1
+[  "isQuerying"]: 2
+[ _OBJC_CLASS_$_NSMutableString  "string"]: 9
+[  "reportImpressionFromConnector:isRefresh"...]: 2
+[  "selectedSingleCurrency:dismiss:"]: 5
+[ _OBJC_CLASS_$_SettingsViewController  "updateRatesValueForRefreshInterval:"]: 2
+[ _OBJC_CLASS_$_GADMacros  "class"]: 1
+[  "isHighlighted"]: 7
+[  "amountStringForCurrencyIsoCode:withSymb"...]: 3
+[  "keypadPreset3"]: 5
+[  "birthdayString"]: 2
+[ _OBJC_CLASS_$_Currency  "init"]: 6
+[ _OBJC_CLASS_$_GADCustomEventExtras  "class"]: 1
+[  "adViewWillDismissScreen:"]: 1
+[  "pathForResource:ofType:inDirectory:forL"...]: 2
+[  "superview"]: 7
+[ _OBJC_CLASS_$_NSUserDefaults  "stringForKey:"]: 1
+[ _OBJC_CLASS_$_NSDateComponents  "setYear:"]: 1
+[ _OBJC_CLASS_$_UIWebView  "alloc"]: 1
+[  "SRD"]: 1
+[  "length"]: 39
+[ _OBJC_CLASS_$_GADSearchObjectPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "parameters"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCell  "setIsoCode:"]: 1
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_initGestures; "initGestures"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "setSupportedOrientations:"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "objectAtIndex:"]: 3
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_UIScreen]: 1
+[  "setSavedFrame:"]: 2
+[  "masterCurrencyCellIndexPath"]: 5
+[  "isAdVisible"]: 2
+[ classRef_UIColor  "whiteColor"]: 2
+[  "reportClickFromConnector:isRefresh:"]: 3
+[  "bytes"]: 2
+[  "request"]: 10
+[ _OBJC_CLASS_$_NSNumberFormatter  "positiveSuffix"]: 9
+[  "setCurrencyNameLabel:"]: 1
+[  "setKeypadPreset:"]: 1
+[  "modalPresentationStyle"]: 2
+[  "initWithString:"]: 1
+[  "setDidNetworkRefresh:"]: 2
+[ _OBJC_CLASS_$_MapAnnotation  "setIsoCode:"]: 1
+[  "spinner"]: 3
+[  "setWebView:"]: 6
+[ _OBJC_CLASS_$_GADRequestError  "errorWithCode:request:httpStatusCode:"]: 2
+[  "URL"]: 12
+[ _OBJC_CLASS_$_NSMutableDictionary  "setValue:forKey:"]: 2
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "processTouchSignals:"]: 1
+[ _OBJC_CLASS_$_GADViewControllerPrivate  "autorelease"]: 1
+[  "setAllowFileAccess:"]: 3
+[  "localizedCaseInsensitiveCompare:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "adapterDurationsParameter"]: 2
+[ _OBJC_CLASS_$_GADNumberUtilities  "md5OfString:"]: 1
+[  "supportedOrientations"]: 4
+[ _OBJC_CLASS_$_GADDelegateManager  "init"]: 2
+[ classRef_NSMutableString  "stringWithString:"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "load:referringURL:"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "init"]: 3
+[  "userBirthday"]: 3
+[ dword_A7D68  "release"]: 1
+[  "keypad7"]: 3
+[ _OBJC_CLASS_$_UIToolbar  "alloc"]: 2
+[ _OBJC_CLASS_$_GADStatisticsCore  "synchronize"]: 1
+[  "savedState"]: 1
+[  "setInterstitial:"]: 1
+[ _OBJC_CLASS_$_NSCalendar  "dateFromComponents:"]: 1
+[ _OBJC_CLASS_$_GADMacros  "setPublisherIdleTimerDisabled:"]: 1
+[ _OBJC_CLASS_$_NSString  "stringWithContentsOfFile:encoding:error"...]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "addObject:"]: 14
+[  "cancelPendingAndFutureActions"]: 3
+[ _OBJC_CLASS_$_UIColor  "set"]: 6
+[  "openBrowserToURL:supportedOrientations:"]: 2
+[ _OBJC_CLASS_$_GADAdType  "class"]: 1
+[  "beginUpdates"]: 2
+[ _OBJC_CLASS_$_NSCalendar  "alloc"]: 1
+[ _OBJC_CLASS_$_UIDevice  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "setEnabled:"]: 1
+[  "isoCode"]: 53
+[  "refresh:"]: 1
+[  "tag"]: 1
+[ _OBJC_CLASS_$_MapViewController  "setMapRegion:"]: 1
+[  "setAdManager:"]: 8
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorBanner  selRef_initWithConfig_networkConfig_]: 1
+[  "validate"]: 3
+[ _OBJC_CLASS_$_NSNumber  "boolValue"]: 1
+[ _OBJC_CLASS_$_GADBrowserControllerPrivate  "autorelease"]: 1
+[  "viewControllerForPresentingModalView"]: 3
+[  "cachedFile:shouldRedirectToURL:"]: 1
+[ _OBJC_CLASS_$_CurrencySourceCell  "alloc"]: 1
+[  "getValue:"]: 3
+[  "interstitialWillLeaveApplication:"]: 2
+[  "removeSelfAsDelegate"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "removeTimingNamed:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "parameters"]: 1
+[  "setLastUpdateString:"]: 2
+[ _OBJC_CLASS_$_NSAssertionHandler  "handleFailureInFunction:file:lineNumber"...]: 3
+[  "gadObject"]: 5
+[  "supportsMinimumRequirementsForRequest:"]: 1
+[ _OBJC_CLASS_$_GADWebViewPrivate  "release"]: 1
+[ _OBJC_CLASS_$_UINavigationController  "setBarStyle:"]: 2
+[  "isExpandable"]: 3
+[ _OBJC_CLASS_$_GADMUtilities  "replace:with:inString:"]: 11
+[  "sectionIndexTitles"]: 1
+[ _OBJC_CLASS_$_MapAnnotation  "alloc"]: 1
+[ _OBJC_CLASS_$_UIImage  "imageWithCGImage:"]: 1
+[ _OBJC_CLASS_$_NSMutableSet  "init"]: 1
+[ _OBJC_CLASS_$_UINavigationController  "navigationBar"]: 2
+[ _OBJC_CLASS_$_NSNumberFormatter  "setInternationalCurrencySymbol:"]: 4
+[ _OBJC_CLASS_$_GADViewController  "orientationFromString:"]: 1
+[  "updateViewport"]: 3
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "canOpenURLs:"]: 1
+[ _OBJC_CLASS_$_UISwitch  "setSelectionStyle:"]: 1
+[ _OBJC_CLASS_$_UIToolbar  "autorelease"]: 1
+[  "hasTracked"]: 1
+[ _OBJC_CLASS_$_GADInterstitialAppController  "alloc"]: 1
+[  "validateAdResponseWithAdSize:andValidAd"...]: 1
+[  "adViewWillLeaveApplication:"]: 1
+[  "impressionUrls"]: 1
+[ _OBJC_CLASS_$_GADAdURLStash  "isInterstitial"]: 1
+[ _OBJC_CLASS_$_NSBundle  "hasError"]: 1
+[ _OBJC_CLASS_$_GADMNSURLConnectionFactory  "sharedFactory"]: 2
+[  "masterCurrencyCell"]: 29
+[ _OBJC_CLASS_$_UILabel  "setTextAlignment:"]: 5
+[  "setReloadButton:"]: 1
+[  "decimalSeparatorIsComma"]: 4
+[  "floatValue"]: 5
+[ _OBJC_CLASS_$_UIActionSheet  "pushViewController:animated:"]: 1
+[  "clearCachedFile"]: 2
+[  "deactivateReloadTimer"]: 2
+[ _OBJC_CLASS_$_GADIntrinsicImages  "sharedInstance"]: 3
+[  "notifyOfSdkEvent:"]: 4
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 0  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_UIAlertView  "alloc"]: 3
+[ _OBJC_CLASS_$_UIView  "setAnimationDuration:"]: 2
+[  "qdata"]: 3
+[ _OBJC_CLASS_$_UITextField  "setAutoresizingMask:"]: 1
+[ _OBJC_CLASS_$_NSFileManager  "defaultManager"]: 7
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "sizeToFit"]: 2
+[  "connectionFactory"]: 1
+[  "useFastCells"]: 3
+[  "willDismissScreen"]: 3
+[ _OBJC_CLASS_$_NSNumberFormatter  "setUsesGroupingSeparator:"]: 1
+[  "navigationController"]: 9
+[ _OBJC_CLASS_$_GADAdType  "initWithSize:"]: 1
+[ _OBJC_CLASS_$_NSString  selRef_stringWithCString_encoding_; "stringWithCString:encoding:"]: 1
+[  "bannerDelegate"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCell  "addCurrencyCellView"]: 4
+[  "adapter:didReceiveInterstitial:"]: 2
+[ _OBJC_CLASS_$_GADStatistics  selRef_endTimingAdapterWithExitCode_]: 1
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setMessageBody:isHTML:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "formatStringWithSeparator:"]: 1
+[  "isFirstResponder"]: 3
+[ _OBJC_CLASS_$_NSKeyedUnarchiver  "unarchiveObjectWithFile:"]: 1
+[ _OBJC_CLASS_$_UILabel  "setShadowColor:"]: 5
+[ _OBJC_CLASS_$_GADMacros  "pubLog:"]: 18
+[  "indexPathForSelectedRow"]: 10
+[ _OBJC_CLASS_$_AddCurrencyCell  "setAccessoryType:"]: 1
+[  "setNetworkExtrasMap:"]: 2
+[ _OBJC_CLASS_$_GADRequest  "sdkVersion"]: 7
+[ _OBJC_CLASS_$_GADCachedFile  "headersForResponse:"]: 1
+[ _OBJC_CLASS_$_UIActionSheet  "initWithTitle:delegate:cancelButtonTitl"...]: 2
+[ _OBJC_CLASS_$_NSNull  "null"]: 1
+[  "isUserInteractionEnabled"]: 1
+[  "setAllowsInlineMediaPlayback:"]: 1
+[  "absoluteString"]: 17
+[ _OBJC_CLASS_$_MFMailComposeViewController  "canSendMail"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "init"]: 1
+[  "httpDestinationURL"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "headersFromResponse:"]: 3
+[  "currencySources"]: 3
+[  "setupBuildAdWebView"]: 1
+[ _OBJC_CLASS_$_GADMConfig  "retain"]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "class"]: 2
+[  "allValues"]: 1
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setSubject:"]: 2
+[ _OBJC_CLASS_$_UIImage  "drawAtPoint:"]: 1
+[ _OBJC_CLASS_$_MKPinAnnotationView  "initWithAnnotation:reuseIdentifier:"]: 1
+[  "setShowDebug:"]: 3
+[  "willShowAdView:"]: 1
+[  "openingWebView"]: 1
+[  "appendValue:into:error:"]: 3
+[  "adNetworkExtrasFor:"]: 3
+[ _OBJC_CLASS_$_GADAdType  "bannerAdTypeForSize:"]: 6
+[  "writeToFile:options:error:"]: 1
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  selRef_allow]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "alloc"]: 2
+[  "isReady"]: 1
+[ _OBJC_CLASS_$_UIImageView  "initWithFrame:"]: 2
+[  "buildRoundedRectPathInRect:withRadius:w"...]: 1
+[ _OBJC_CLASS_$_GADLocation  "setTimestamp:"]: 1
+[  "keyEnumerator"]: 1
+[  "endBackgroundTask"]: 3
+[ _OBJC_CLASS_$_NSMutableURLRequest  "requestWithURL:cachePolicy:timeoutInter"...]: 1
+[ dword_A7D6C  "isKindOfClass:"]: 1
+[  "gadmDelegate"]: 16
+[  "intForKey:fromDictionary:"]: 3
+[ unk_A7E30  selRef_accelerometer_didAccelerate_; "accelerometer:didAccelerate:"]: 1
+[  _OBJC_CLASS_$_SettingsUpdateRatesViewController]: 1
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  "encode:"]: 1
+[  "identifier"]: 2
+[ _OBJC_CLASS_$_UINavigationController  "setModalTransitionStyle:"]: 3
+[ _OBJC_CLASS_$_UISwitch  "textLabel"]: 2
+[  "arrayForKey:"]: 2
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "sharedInstance"]: 6
+[  "setRequestId:"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "appendQueryParameters:toURL:"]: 1
+[  "loadDidFail:httpStatusCode:"]: 2
+[  "decodeDataObject"]: 1
+[  "keypadEvaluate"]: 2
+[ "dynamic_"  "stringByAppendingString:"]: 1
+[  "scrollViewSelectIndexPath"]: 3
+[  "setConfig:"]: 1
+[ _OBJC_CLASS_$_MapAnnotation  "class"]: 7
+[  "removeLastObject"]: 2
+[  "setTopLeftCorner:"]: 1
+[ "stringWithFormat:"  "encodeString:"]: 1
+[  "ZMK"]: 1
+[  "setSplitViewPopoverController:"]: 2
+[  "fileSystemRepresentation"]: 2
+[ _OBJC_CLASS_$_NSURLConnection  "alloc"]: 1
+[  "anyObject"]: 5
+[  "gadmWillPresentInterstitial"]: 1
+[  "getBannerWithSize:"]: 1
+[ _OBJC_CLASS_$_MapAnnotation  "setCurrencyName:"]: 1
+[  "userLocationAccuracyInMeters"]: 2
+[ _OBJC_CLASS_$_NSFileManager  "createDirectoryAtPath:withIntermediateD"...]: 1
+[ _OBJC_CLASS_$_NSNumber  "numberWithDouble:"]: 11
+[  selRef_addObject_; "addObject:"]: 1
+[  "initWithGADMAdNetworkConnector:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "setKeywords:"]: 2
+[ _OBJC_CLASS_$_NSNotificationCenter  "postNotificationName:object:"]: 7
+[  "gadmWillPresentFullScreenModal"]: 1
+[ _OBJC_CLASS_$_NSNumber  "numberWithBool:"]: 9
+[ _OBJC_CLASS_$_UIActionSheet  "alloc"]: 2
+[ _OBJC_CLASS_$_NSNumber  "numberWithInt:"]: 46
+[  "handleTouchDown:withEvent:"]: 2
+[  "setTimeLastLoaded:"]: 1
+[  "presentInterstitialFromRootViewControll"...]: 3
+[  "startTimingNamed:"]: 3
+[  "setHighlightedTextColor:"]: 1
+[  "networkExtras"]: 2
+[ _OBJC_CLASS_$_GADBrowserWebViewDelegate  "autorelease"]: 1
+[ _OBJC_CLASS_$_Calculator  "tempString"]: 1
+[ _OBJC_CLASS_$_UIWindow  "alloc"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "setRoundBottom:"]: 1
+[ _OBJC_CLASS_$_UIColor  "clearColor"]: 15
+[  "setAmount:"]: 2
+[  "fetchFrom:forRequest:"]: 1
+[  "impressionURLs"]: 1
+[  _OBJC_CLASS_$_GADClickTrackerCollection]: 6
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "alloc"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "objectAtIndex:"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "retain"]: 1
+[ classRef_NSNumber  "numberWithUnsignedInteger:"]: 1
+[  "longLongValue"]: 1
+[  "requestNextAdNetwork"]: 1
+[  "end"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "urlStringWithoutHashFragment:"]: 2
+[  "customEventWithCredentials:isInterstiti"...]: 2
+[ stru_A36E4  "exchangeRateForCurrencyIsoCode:"]: 1
+[ _OBJC_CLASS_$_NSScanner  "scanCharactersFromSet:intoString:"]: 1
+[ _OBJC_CLASS_$_UILabel  "setTextColor:"]: 5
+[  "object"]: 2
+[  "SKK"]: 1
+[  "parent"]: 2
+[ _OBJC_CLASS_$_AddCurrencyCell  "setChecked:"]: 1
+[  "bottomLeftCorner"]: 2
+[ _OBJC_CLASS_$_UITableViewCell  "detailTextLabel"]: 8
+[  "resignFirstResponder"]: 2
+[  "keypad4"]: 3
+[  "URLProtocol:didLoadData:"]: 1
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  selRef_setDoPad_; "setDoPad:"]: 1
+[ _OBJC_CLASS_$_UILabel  "text"]: 2
+[  "setSearchDisplayController:"]: 1
+[ _OBJC_CLASS_$_GADMSharedContext  "init"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "addEntriesFromDictionary:"]: 4
+[  "splitViewController"]: 5
+[  "birthday"]: 5
+[  "data"]: 3
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "osVersion"]: 1
+[  "loadPersistentTimings"]: 1
+[ _OBJC_CLASS_$_UITextField  "setMinimumFontSize:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "containsObject:"]: 3
+[  "pubId"]: 2
+[  selRef_timestamp; "timestamp"]: 1
+[  "reload"]: 1
+[ _OBJC_CLASS_$_NSThread  "isMainThread"]: 3
+[  "allocationId"]: 2
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_chainAccDelegatesIfNeeded; "chainAccDelegatesIfNeeded"]: 2
+[  "setGender:"]: 1
+[ _OBJC_CLASS_$_UIButton  "setAutoresizingMask:"]: 1
+[  "adView"]: 25
+[ _OBJC_CLASS_$_GADMNSURLConnectionFactory  "newConnectionWithRequest:delegate:start"...]: 1
+[  "stringByDeletingLastPathComponent"]: 1
+[ _OBJC_CLASS_$_NSMutableURLRequest  "setValue:forHTTPHeaderField:"]: 4
+[  "currencySymbol"]: 1
+[  "isCollapsing"]: 1
+[ _OBJC_CLASS_$_NSString  "private"]: 1
+[ _OBJC_CLASS_$_NSDate  "timeIntervalSinceDate:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "autorelease"]: 4
+[  "primaryTimeout"]: 1
+[ classRef_GADNotification  "isAdMobNotificationURL:"]: 1
+[  "newConnectionWithRequest:delegate:start"...]: 1
+[ classRef_NSString  "stringWithFormat:"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFastView  "alloc"]: 1
+[ _OBJC_CLASS_$_NSString  "stringWithString:"]: 2
+[  "dismissModalViewControllerAnimated:"]: 6
+[  selRef_loadGoogleAds]: 2
+[  selRef_didFailToReceiveAdWithError_]: 1
+[ _OBJC_CLASS_$_UIView  "setFrame:"]: 3
+[ "{"  "stringByAppendingString:"]: 1
+[  "presentPopoverFromRect:inView:permitted"...]: 1
+[ _OBJC_CLASS_$_NSDate  "date"]: 7
+[  "setSelectedSegmentIndex:"]: 2
+[ _OBJC_CLASS_$_GADNotificationCenter  "removeObserver:name:object:"]: 5
+[  "keysAndValues"]: 1
+[ _OBJC_CLASS_$_GADStatistics  selRef_incrementSSLPageNavigationCount]: 1
+[ _OBJC_CLASS_$_CAGradientLayer  "setLocations:"]: 2
+[  selRef_countByEnumeratingWithState_objects_count_; "countByEnumeratingWithState:objects:cou"...]: 2
+[  "savedSuperview"]: 1
+[  "downloader:didFailWithError:"]: 2
+[  "isEqualToString:"]: 73
+[ _OBJC_CLASS_$_GADLocation  "release"]: 2
+[  "descriptionTextColor"]: 2
+[ stru_A36E4  "popoverController"]: 3
+[  "webViewDelegate"]: 10
+[ _OBJC_CLASS_$_NSString  "release"]: 1
+[ _OBJC_CLASS_$_GADTiming  "alloc"]: 3
+[  "longitude"]: 6
+[  "setScrollViewSelectIndexPath:"]: 2
+[ _OBJC_CLASS_$_NSMutableData  "dataWithLength:"]: 2
+[ dword_A7D6C  "expireDate"]: 1
+[  "adapter:didFailAd:"]: 2
+[ _OBJC_CLASS_$_SettingsUpdateRatesViewController  "alloc"]: 1
+[ _OBJC_CLASS_$_NSAutoreleasePool  "new"]: 1
+[  "invalidJavaScriptRequest"]: 1
+[  "sectionForSectionIndexTitleAtIndex:"]: 1
+[ _OBJC_CLASS_$_UITextField  "initWithFrame:"]: 1
+[ _OBJC_CLASS_$_CurrencyCell  "setEven:"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "setNumberStyle:"]: 4
+[  "setConnector:"]: 2
+[  "setAutocorrectionType:"]: 1
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorInterstitial  "alloc"]: 1
+[ _OBJC_CLASS_$_NSString  "pathWithComponents:"]: 1
+[ _OBJC_CLASS_$_MKPinAnnotationView  "setAnimatesDrop:"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "createArrayOfURLsfromHeader:"]: 2
+[ _OBJC_CLASS_$_NSDateFormatter  "release"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "setObject:forKey:"]: 14
+[ _OBJC_CLASS_$_UITableView  "initWithFrame:style:"]: 1
+[  "cachedFileDownloadDidEnd:"]: 4
+[ _OBJC_CLASS_$_GADOpener  "autorelease"]: 1
+[  "topLeftCorner"]: 2
+[  "referringURLToLoad"]: 1
+[  "setKeypadButtons:"]: 2
+[  "contentView"]: 10
+[ _OBJC_CLASS_$_NSJSONSerialization  "objectForKeyedSubscript:"]: 1
+[ _OBJC_CLASS_$_UIButton  "buttonWithType:"]: 4
+[  "items"]: 8
+[  "setCurrencyIsoCodesDictionary:"]: 1
+[ _OBJC_CLASS_$_GADNotificationCenter  "removeObserver:"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "setAppOpenInterstitialNoFill"]: 1
+[  "setFlexibleSpaceButton:"]: 1
+[ _OBJC_CLASS_$_CurrencyCell  "class"]: 2
+[  "resetRequestState"]: 2
+[  "delegate"]: 42
+[  "interactingWithParent"]: 2
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizerPrivate  "release"]: 1
+[ _OBJC_CLASS_$_UILabel  "setBaselineAdjustment:"]: 1
+[  "reloadRowsAtIndexPaths:withRowAnimation"...]: 1
+[  "sectionForObject:collationStringSelecto"...]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "alloc"]: 4
+[  "deviceSubmodel"]: 2
+[  "adapterWillDismissFullScreenModal:"]: 2
+[ _OBJC_CLASS_$_NSLocale  "objectForKey:"]: 9
+[  "host"]: 7
+[ _OBJC_CLASS_$_UISwitch  "setText:"]: 2
+[ _OBJC_CLASS_$_Currency  "allocWithZone:"]: 1
+[  "removeValueForKey:"]: 1
+[ _OBJC_CLASS_$_NSMutableData  "data"]: 1
+[  "requestForURL:"]: 1
+[  "masterCurrencyCellAutoresizingMask:"]: 2
+[  "incrementClickCount"]: 1
+[ _OBJC_CLASS_$_MKPinAnnotationView  "setLeftCalloutAccessoryView:"]: 2
+[ _OBJC_CLASS_$_NSKeyedArchiver  "archiveRootObject:toFile:"]: 1
+[ "stringWithFormat:"  "setDelegate:"]: 2
+[  "count"]: 50
+[  "setAdSize:andReload:"]: 2
+[  "performSelectorOnMainThread:withObject:"...]: 6
+[  "valueForKey:"]: 5
+[  "registerForJavaScriptNotifications"]: 1
+[ _OBJC_CLASS_$_GADNotificationCenter  "postNotificationName:object:userInfo:"]: 2
+[ _OBJC_CLASS_$_MFMailComposeViewController  "release"]: 1
+[ _OBJC_CLASS_$_GADMacros  "setInteractingWithParent:"]: 1
+[  "rootViewController"]: 6
+[  "setFont:"]: 4
+[  selRef_setIsMediating_]: 1
+[ _OBJC_CLASS_$_NSDictionary  "dictionary"]: 2
+[  "testMode"]: 2
+[  selRef_unsignedIntegerValue; "unsignedIntegerValue"]: 1
+[  "resetAppOpenInterstitialTimeOut"]: 1
+[ _OBJC_CLASS_$_GADCachedFile  "retain"]: 1
+[  "setBirthday:"]: 2
+[ _OBJC_CLASS_$_NSThread  "currentThread"]: 6
+[  "isSelected"]: 2
+[ dword_A7D6C  "setObject:forKey:"]: 1
+[  "setTitle:"]: 11
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorBanner  "release"]: 1
+[  "setRequest:"]: 2
+[ _OBJC_CLASS_$_UIView  "layer"]: 2
+[  "inInverseMode"]: 3
+[  _OBJC_CLASS_$_GADMacros]: 2
+[  "componentsSeparatedByCharactersInSet:"]: 1
+[ selRef_release  "objectForKey:"]: 1
+[ _OBJC_CLASS_$_GADCachedFile  "formatterForHTTPDate"]: 2
+[  "cStringUsingEncoding:"]: 3
+[ _OBJC_CLASS_$_GADNotification  "parameters"]: 2
+[  "addTimingWithCategory:"]: 1
+[  "keypadClear"]: 3
+[ _OBJC_CLASS_$_NSMutableDictionary  "dictionary"]: 14
+[  "state"]: 9
+[  "allKeys"]: 8
+[  "borderThickness"]: 1
+[ _OBJC_CLASS_$_NSString  "initWithData:encoding:"]: 5
+[  "localizedSortCurrencies"]: 2
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setMailComposeDelegate:"]: 2
+[  "adRequestFailedFromConnector:withError:"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "startTimingNamed:"]: 8
+[  _OBJC_CLASS_$_NSString]: 8
+[ _OBJC_CLASS_$_UIBarButtonItem  "setAccessibilityLabel:"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "setPositiveSuffix:"]: 6
+[ _OBJC_CLASS_$_NSMutableString  "stringWithFormat:"]: 3
+[ "GAIAdMobInfo"  "isKindOfClass:"]: 1
+[ stru_A36E4  "isEditing"]: 1
+[ _OBJC_CLASS_$_UIColor  "textLabel"]: 1
+[  "setRefreshRate:"]: 1
+[  "isHidden"]: 1
+[  "setBottomLeftCorner:"]: 1
+[  "setCountryCode:"]: 2
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "setFrame:"]: 1
+[  "setOpeningWebView:"]: 1
+[ dword_A7D6C  "removeAllObjects"]: 2
+[ _OBJC_CLASS_$_GADNetworkChecker  "setEnabled:"]: 1
+[ _OBJC_CLASS_$_UITextField  "setDelegate:"]: 1
+[  "appClosing"]: 1
+[ _OBJC_CLASS_$_UILabel  "setFrame:"]: 4
+[  "setWidth:"]: 3
+[ _OBJC_CLASS_$_NSJSONSerialization  "JSONObjectWithData:options:error:"]: 1
+[ _OBJC_CLASS_$_GADMConfig  "autorelease"]: 1
+[ _OBJC_CLASS_$_NSArray  "isEqualToString:"]: 2
+[ dword_A7D6C  "removeObjectForKey:"]: 1
+[ _OBJC_CLASS_$_NSString  "alloc"]: 14
+[ _OBJC_CLASS_$_GADJavaScriptController  "executeJavaScriptFileFromURL:withDelega"...]: 1
+[  "setAppEventDelegate:"]: 2
+[ _OBJC_CLASS_$_GAD_SBJSON  "init"]: 4
+[  "loadShouldUseCachedResponse:"]: 1
+[ _OBJC_CLASS_$_KeypadViewController  "init"]: 2
+[  "performSelector:withObject:"]: 2
+[  "addCurrencyViewControllerOffset"]: 2
+[  "destinationURL"]: 3
+[  "htmlToLoad"]: 2
+[ _OBJC_CLASS_$_UIWindow  "initWithFrame:"]: 1
+[  "setSelectedBackgroundView:"]: 1
+[  "setBannerDelegate:"]: 1
+[  "gadmDidDismissInterstitial"]: 1
+[  "presentModalViewController:animated:"]: 3
+[ _OBJC_CLASS_$_CurrencyCellFastView  "initWithFrame:"]: 1
+[  "setObject:forKey:matchingClass:"]: 5
+[ _OBJC_CLASS_$_UIDevice  "currentDevice"]: 136
+[  "changeAdSizeTo:"]: 1
+[ _OBJC_CLASS_$_MapViewController  "setCurrenciesController:"]: 1
+[ _OBJC_CLASS_$_UILabel  "setBackgroundColor:"]: 5
+[  "encode:"]: 1
+[ _OBJC_CLASS_$_NSString  "stringWithCString:encoding:"]: 1
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "setInterstitialImplementationPath:"]: 2
+[ _OBJC_CLASS_$_NSUserDefaults  "setBool:forKey:"]: 8
+[ _OBJC_CLASS_$_GADClickTracker  "alloc"]: 2
+[  "parseConfig:errorReturn:"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "setCurrencyName:"]: 3
+[ _OBJC_CLASS_$_NSThread  selRef_callStackReturnAddresses; "callStackReturnAddresses"]: 1
+[  "createImageFromEncoding:"]: 3
+[ _OBJC_CLASS_$_NSDecimalNumber  "doubleValue"]: 1
+[ _OBJC_CLASS_$_UIView  "animateWithDuration:animations:"]: 6
+[  "keypadDot"]: 4
+[ _OBJC_CLASS_$_GADJavaScriptController  "alloc"]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "arrayWithObject:"]: 1
+[  "setSavedDelegate:"]: 2
+[  "isBannerLoaded"]: 2
+[  "dismissViewControllerAnimated:completio"...]: 1
+[  "setAutoresizingMask:"]: 12
+[ _OBJC_CLASS_$_NSUserDefaults  "setInteger:forKey:"]: 9
+[  "setDelegate:"]: 44
+[  "interstitialWillDismissScreen:"]: 3
+[ _OBJC_CLASS_$_MapViewController  "initWithNibName:bundle:"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "initWithReuseIdentifier:"]: 2
+[  "action"]: 1
+[  "setGadObject:"]: 2
+[  "setAmountLabel:"]: 1
+[  "setScrollsToTop:"]: 1
+[ _OBJC_CLASS_$_GADLocation  "class"]: 1
+[  "shouldDismissOnAppClose"]: 1
+[  "substringToIndex:"]: 5
+[ _OBJC_CLASS_$_NSDate  "autorelease"]: 1
+[  _OBJC_CLASS_$_UITableViewCell]: 2
+[ _OBJC_CLASS_$_UITextField  "alloc"]: 1
+[  classRef_NSString]: 2
+[ _OBJC_CLASS_$_GADWebAppViewController  "alloc"]: 2
+[ classRef_GADNumberUtilities  "stringWithFloat:"]: 1
+[  "initWithFrame:"]: 2
+[ dword_A7D6C  "objectForKey:"]: 1
+[  selRef_setState_]: 1
+[  "isEditing"]: 15
+[ _OBJC_CLASS_$_Calculator  "pressed:"]: 2
+[ _OBJC_CLASS_$_NSURLProtocol  "unregisterClass:"]: 1
+[ _OBJC_CLASS_$_GADBannerView  "setRootViewController:"]: 1
+[ _OBJC_CLASS_$_UITextField  "class"]: 1
+[  "setToolbarLabelToLastUpdated"]: 5
+[  "userInfo"]: 9
+[ _OBJC_CLASS_$_UIApplication  "endBackgroundTask:"]: 1
+[  "name"]: 15
+[  "adNetworkTimeout"]: 1
+[  "unsignedIntegerValue"]: 1
+[ _OBJC_CLASS_$_GADNetworkChecker  "init"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "refresh:"]: 2
+[ _OBJC_CLASS_$_UIButton  "setShowsTouchWhenHighlighted:"]: 1
+[  "pressed:"]: 1
+[  "presentMediatedInterstitialFromRootView"...]: 1
+[  "setTopRightCorner:"]: 1
+[ _OBJC_CLASS_$_UITextField  "setTextColor:"]: 1
+[ "bounds"  "amount"]: 2
+[  "setWindow:"]: 1
+[ _OBJC_CLASS_$_GADAdType  "alloc"]: 2
+[  "setAdSizeDelegate:"]: 2
+[ _OBJC_CLASS_$_GADRequestError  "autorelease"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setTag:"]: 1
+[  "amountTextField"]: 2
+[  "backButton"]: 2
+[  "setRequestedOrientation:"]: 1
+[ _OBJC_CLASS_$_Currency  "setSymbol:"]: 6
+[ _OBJC_CLASS_$_UIImageView  "alloc"]: 6
+[ classRef_NSURL  "class"]: 1
+[ _OBJC_CLASS_$_NSCharacterSet  "characterSetWithCharactersInString:"]: 2
+[  "toolbarLabel"]: 3
+[ _OBJC_CLASS_$_CurrencyCellFast  "setAmount:"]: 2
+[  "tracker:didFailWithError:"]: 1
+[  "updateNavigationItemPrompt"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "sessionId"]: 1
+[ "relinquishScreen"  "componentsSeparatedByString:"]: 1
+[ stru_A36E4  "presentViewController:animated:completi"...]: 1
+[  "networkConfig"]: 6
+[  "selectedCurrency"]: 6
+[  "keypadPreset4"]: 4
+[  "symbol"]: 8
+[  "decodeObjectForKey:"]: 7
+[ _OBJC_CLASS_$_NSMutableDictionary  "setCountLimit:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "autorelease"]: 1
+[ _OBJC_CLASS_$_CurrencyCell  "setRoundTop:"]: 1
+[ _OBJC_CLASS_$_GADWebView  "alloc"]: 3
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "setBannerImplementationPath:"]: 2
+[  "setOrientation:"]: 1
+[ _OBJC_CLASS_$_CurrencySourceCell  "initWithStyle:reuseIdentifier:"]: 1
+[  "stopNetworkChecking"]: 1
+[ _OBJC_CLASS_$_NSCompoundPredicate  "orPredicateWithSubpredicates:"]: 1
+[  "resetBreakOutToSafari"]: 1
+[  "isVisible"]: 2
+[ _OBJC_CLASS_$_UISwitch  "subviews"]: 1
+[  _OBJC_CLASS_$_GADRequestError]: 2
+[  "setDownloader:"]: 4
+[ _OBJC_CLASS_$_NSMutableDictionary  "objectForKey:"]: 1
+[  "currencyAtIndex:"]: 3
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "init"]: 1
+[ _OBJC_CLASS_$_GADAdURLStash  "setIsMRAID:"]: 1
+[ _OBJC_CLASS_$_NSURL  "fileURLWithPath:"]: 1
+[  "addObjectsFromArray:"]: 3
+[ _OBJC_CLASS_$_GADAdURLStash  "delegate"]: 2
+[ _OBJC_CLASS_$_GADMAdNetworkConfig  "autorelease"]: 1
+[ _OBJC_CLASS_$_MapViewController  "setDelegate:"]: 1
+[ _OBJC_CLASS_$_NSDate  "dateWithTimeIntervalSince1970:"]: 2
+[  "stringByAppendingString:"]: 1
+[  "setMasterCurrencyCellIndexPath:"]: 2
+[ _OBJC_CLASS_$_NSDate  "alloc"]: 1
+[  "currencyIsoCodesDictionary"]: 2
+[ _OBJC_CLASS_$_NSString  selRef_lastPathComponent; "lastPathComponent"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "isJailbroken"]: 1
+[  "country"]: 3
+[  "hash"]: 2
+[  "integerValue"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "setWidth:"]: 1
+[ stru_A36E4  "dismissPopoverAnimated:"]: 1
+[ _OBJC_CLASS_$_UIImageView  "initWithImage:"]: 4
+[ _OBJC_CLASS_$_Calculator  "op"]: 1
+[ _OBJC_CLASS_$_GADRequestError  "errorWithCode:request:"]: 10
+[  "setGestureState:"]: 4
+[  "setInteractingWithParent:"]: 3
+[ _OBJC_CLASS_$_UITextField  "contentView"]: 2
+[  selRef_superclass; "superclass"]: 2
+[  "code"]: 5
+[ _OBJC_CLASS_$_GADBrowserWebViewDelegate  "initWithBrowserController:"]: 1
+[  "font"]: 1
+[ _OBJC_CLASS_$_GADNotificationCenter  "postJSNotification:userInfo:webView:"]: 2
+[  "gradientFrom"]: 2
+[  "bundlePath"]: 2
+[  "chooseImage:orDoubleDensityImage:"]: 3
+[ jumptable 0001ACB0 case 0  "keypadAdd"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "appendFormat:"]: 6
+[  "setHidden:"]: 7
+[  "insertSubview:aboveSubview:"]: 2
+[ classRef_Calculator  "sharedInstance"]: 1
+[ _OBJC_CLASS_$_NSCharacterSet  "whitespaceAndNewlineCharacterSet"]: 1
+[ _OBJC_CLASS_$_NSArray  "objectForKeyedSubscript:"]: 8
+[ _OBJC_CLASS_$_MapAnnotation  "init"]: 1
+[ classRef_UIColor  "blackColor"]: 1
+[ _OBJC_CLASS_$_NSObject  "cancelPreviousPerformRequestsWithTarget"...]: 2
+[ _OBJC_CLASS_$_GADStatistics  "allTimingNames"]: 1
+[ jumptable 0001ACB0 case 3  jumptable 0001ACB0 case 2]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "componentsSeparatedByString:"]: 2
+[  "adapterWillLeaveApplication:"]: 4
+[ _OBJC_CLASS_$_UIDevice  "systemVersion"]: 1
+[ "indexPathForRow:inSection:"  "presentViewController:animated:completi"...]: 1
+[ _OBJC_CLASS_$_UIMenuController  "setTargetRect:inView:"]: 1
+[  "containsObject:"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "class"]: 2
+[  "keypad3"]: 3
+[  "dismissWithClickedButtonIndex:animated:"]: 2
+[  "sortedArrayUsingSelector:"]: 2
+[  "currencySource"]: 8
+[ _OBJC_CLASS_$_UISearchBar  "alloc"]: 1
+[ _OBJC_CLASS_$_NSScanner  "scannerWithString:"]: 2
+[  "didReceiveAd"]: 3
+[ _OBJC_CLASS_$_NSArray  "objectAtIndexedSubscript:"]: 5
+[ _OBJC_CLASS_$_UILocalizedIndexedCollation  "currentCollation"]: 1
+[  "setMediaPlaybackRequiresUserAction:"]: 2
+[  "buildAdURLForPendingDelegates"]: 2
+[ _OBJC_CLASS_$_UITableViewCell  "setSelectionStyle:"]: 8
+[ _OBJC_CLASS_$_NSString  "initWithBytesNoCopy:length:encoding:fre"...]: 2
+[  "substringFromIndex:"]: 6
+[  "alloc"]: 3
+[ _OBJC_CLASS_$_UILabel  "lineBreakMode"]: 2
+[ _OBJC_CLASS_$_GADCachedFile  "timeIntervalSince1970"]: 1
+[  "setRegion:animated:"]: 1
+[  "decode:"]: 1
+[ _OBJC_CLASS_$_ADBannerView  "initWithFrame:"]: 1
+[ _OBJC_CLASS_$_ADBannerView  "alloc"]: 1
+[  "textLabel"]: 9
+[  "setLastRequestTime:"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "forcedRefresh"]: 1
+[  "currencyBySourceAtIndex:"]: 10
+[  "gender"]: 4
+[  "currencies"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "setDelegateManager:"]: 1
+[ _OBJC_CLASS_$_GADAdURLStash  "remove:"]: 2
+[  "setShadowColor:"]: 6
+[ _OBJC_CLASS_$_UIView  "setAnimationDelegate:"]: 2
+[ _OBJC_CLASS_$_AboutViewController  "alloc"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "incrementAdRequestCount"]: 1
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  "rfc4648Base64StringEncoding"]: 1
+[  "parentViewController"]: 1
+[  "saveHeadersFromResponse:"]: 2
+[ _OBJC_CLASS_$_UIWebView  "initWithFrame:"]: 1
+[  "beginFetchWithCacheBuster:"]: 2
+[ _OBJC_CLASS_$_GADViewController  "class"]: 4
+[ _OBJC_CLASS_$_GADMacros  "hideStatusBar"]: 1
+[  "navigationBar"]: 3
+[  "setTableHeaderView:"]: 2
+[  "interstitialDidReceiveAd:"]: 2
+[  "loadPersistentStatistics"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "expirationDateFromHeaders:"]: 1
+[ _OBJC_CLASS_$_CurrenciesController  "init"]: 1
+[ _OBJC_CLASS_$_GADClickTracker  "trackURL:"]: 2
+[ _OBJC_CLASS_$_GADInterstitialAppController  "autorelease"]: 1
+[ _OBJC_CLASS_$_Calculator  "setString:"]: 1
+[  "amount"]: 4
+[ _OBJC_CLASS_$_UIScreen  "scale"]: 2
+[  "mediatedAdView"]: 2
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "shouldRedirectForMRAID:"]: 1
+[ _OBJC_CLASS_$_GADObjectPrivate  "initWithFrame:"]: 1
+[  "setEnabled:"]: 9
+[ _OBJC_CLASS_$_UIAlertView  "initWithTitle:message:delegate:cancelBu"...]: 3
+[ _OBJC_CLASS_$_NSMutableArray  "initWithCapacity:"]: 5
+[ _OBJC_CLASS_$_NSArray  "count"]: 11
+[ _OBJC_CLASS_$_MapAnnotation  "setCountry:"]: 1
+[ _OBJC_CLASS_$_NSData  "dataWithContentsOfURL:"]: 1
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setCcRecipients:"]: 1
+[  "convert:"]: 2
+[ _OBJC_CLASS_$_UIImageView  "setFrame:"]: 2
+[ _OBJC_CLASS_$_NSMutableArray  "array"]: 2
+[  "borderColor"]: 2
+[  "popToViewController:animated:"]: 1
+[  "addTarget:action:forControlEvents:"]: 5
+[ _OBJC_CLASS_$_CurrencyCell  "setAmount:"]: 2
+[  "resetReloadTimer"]: 3
+[ _OBJC_CLASS_$_UIImage  "imageWithData:"]: 2
+[  "removeObjectForKey:"]: 11
+[ _OBJC_CLASS_$_GADMacros  "setValue:forKey:"]: 1
+[  "setEven:"]: 4
+[ _OBJC_CLASS_$_NSMutableData  "setLength:"]: 2
+[ _OBJC_CLASS_$_NSMutableString  "count"]: 1
+[  "setFrame:"]: 24
+[  "setFlagWithParameterName:"]: 4
+[  "savePersistentStatistics"]: 2
+[  "setIndentationWidth:"]: 1
+[  "shouldProcessResponseFromConnector:"]: 3
+[  "fileModificationDate"]: 1
+[  selRef_adapter_didFailAd_]: 1
+[ _OBJC_CLASS_$_NSArray  "containsObject:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "navigationItem"]: 1
+[ classRef_UIDevice  "respondsToSelector:"]: 3
+[  "setSearchResultsDelegate:"]: 2
+[  "query"]: 7
+[  "currencyActionSheet"]: 4
+[  "isOrientationLandscape"]: 1
+[ _OBJC_CLASS_$_GADRequestError  "errorWithCode:"]: 3
+[  "publisherIdleTimerDisabled"]: 1
+[  "setAdType:"]: 3
+[ _OBJC_CLASS_$_GADMAdNetworkConfig  "alloc"]: 1
+[  "timingNamed:"]: 7
+[  "backgroundImageForState:"]: 1
+[  "sort"]: 7
+[  "URLForResource:withExtension:subdirecto"...]: 2
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "trackURLs:"]: 3
+[  "objectAtIndex:"]: 15
+[ _OBJC_CLASS_$_UIColor  "setTextColor:"]: 1
+[  "oolongRepresentation"]: 2
+[ _OBJC_CLASS_$_NSLocale  "length"]: 2
+[  "headerTextSize"]: 1
+[  "nextNetworkCfgByPriority"]: 1
+[ _OBJC_CLASS_$_Currency  "copy"]: 2
+[ _OBJC_CLASS_$_UISwitch  "setAccessoryType:"]: 1
+[  "intervalForRow:"]: 2
+[  "hidePopoverSplitViewController"]: 6
+[ _OBJC_CLASS_$_NSURL  "absoluteString"]: 1
+[ _OBJC_CLASS_$_GADCustomEventRequest  "autorelease"]: 2
+[ _OBJC_CLASS_$_NSUserDefaults  "floatForKey:"]: 7
+[  "deviceIdentifier"]: 2
+[ _OBJC_CLASS_$_NSMutableDictionary  "initWithCapacity:"]: 1
+[ _OBJC_CLASS_$_GADMAdSizeUtilities  "decodeNSValue:toGADAdSize:"]: 5
+[  "adapterWillDismissInterstitial:"]: 3
+[ _OBJC_CLASS_$_GADNetworkUtilities  "encodeURL:"]: 1
+[  "stringByReplacingCharactersInRange:with"...]: 2
+[ _OBJC_CLASS_$_GADNumberUtilities  "stringWithFloat:"]: 2
+[ _OBJC_CLASS_$_UIView  "addSubview:"]: 7
+[ _OBJC_CLASS_$_NSMutableURLRequest  "setCachePolicy:"]: 1
+[  "setSelectedAnnotationCountryName:"]: 2
+[ _OBJC_CLASS_$_CurrencyRatesController  "rateForCurrencyCode:"]: 5
+[ _OBJC_CLASS_$_NSDictionary  "initWithContentsOfFile:"]: 2
+[ _OBJC_CLASS_$_GADRequestError  "errorWithCode:request:httpStatusCode:cu"...]: 2
+[  "adapterDidDismissFullScreenModal:"]: 2
+[ _OBJC_CLASS_$_UIMenuController  "sharedMenuController"]: 3
+[  "collation"]: 7
+[  "deselectRowAtIndexPath:animated:"]: 10
+[ _OBJC_CLASS_$_GADRequestError  "initWithCode:request:httpStatusCode:cus"...]: 1
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "setCenter:"]: 2
+[  "overlayWithWebView:orientations:"]: 3
+[  "gadmTestMode"]: 1
+[ _OBJC_CLASS_$_NSDateComponents  "setMonth:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "class"]: 2
+[ _OBJC_CLASS_$_NSData  selRef_dataWithBytesNoCopy_length_freeWhenDone_; "dataWithBytesNoCopy:length:freeWhenDone"...]: 1
+[ _OBJC_CLASS_$_NSDateFormatter  "stringFromDate:"]: 2
+[ _OBJC_CLASS_$_NSNumberFormatter  "setLocale:"]: 3
+[  "setLength:"]: 4
+[ _OBJC_CLASS_$_Calculator  "init"]: 1
+[ _OBJC_CLASS_$_GADMConfig  "alloc"]: 1
+[ _OBJC_CLASS_$_NSPropertyListSerialization  "isKindOfClass:"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "init"]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "release"]: 1
+[ _OBJC_CLASS_$_UILabel  "setAutoresizingMask:"]: 3
+[ _OBJC_CLASS_$_Calculator  "reset"]: 4
+[ _OBJC_CLASS_$_NSDateComponents  "alloc"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "sessionTimingNames"]: 2
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "release"]: 1
+[  "stringByAppendingPathExtension:"]: 2
+[ _OBJC_CLASS_$_NSLocale  "initWithLocaleIdentifier:"]: 3
+[ _OBJC_CLASS_$_GADViewControllerPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_MKPolygonView  "alloc"]: 1
+[  "setValue:forKey:"]: 4
+[  "keywords"]: 8
+[  "initWithAdSize:"]: 1
+[ _OBJC_CLASS_$_MKPolygonView  "setStrokeColor:"]: 1
+[ _OBJC_CLASS_$_GADMacros  "retain"]: 1
+[  "spinnerContainingButton"]: 5
+[  "URLProtocolDidFinishLoading:"]: 1
+[ _OBJC_CLASS_$_GADIntrinsicImages  "alloc"]: 1
+[ "stringWithFormat:"  "requestInterstitialAdWithParameter:labe"...]: 1
+[ _OBJC_CLASS_$_NSCharacterSet  "decimalDigitCharacterSet"]: 2
+[ _OBJC_CLASS_$_NSPropertyListSerialization  "propertyListFromData:mutabilityOption:f"...]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "dateFromHttpDateString:"]: 2
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_isEqualToString_; "isEqualToString:"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "release"]: 1
+[  "addEntriesFromDictionary:"]: 1
+[  "row"]: 53
+[ _OBJC_CLASS_$_NSLocale  "isEqualToString:"]: 3
+[  "isATestDevice"]: 1
+[ _OBJC_CLASS_$_NSBundle  "setPrompt:"]: 1
+[ _OBJC_CLASS_$_NSArray  "arrayWithObject:"]: 2
+[  "setScalesPageToFit:"]: 2
+[  "masterCurrency"]: 1
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "sharedInstance"]: 6
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorBanner  "setGadmDelegate:"]: 1
+[ _OBJC_CLASS_$_UITextField  "text"]: 1
+[ _OBJC_CLASS_$_UIDevice  "userInterfaceIdiom"]: 69
+[ _OBJC_CLASS_$_NSDecimalNumber  "isEqualToNumber:"]: 1
+[  "unregisterFromWebViewNotifications"]: 2
+[ _OBJC_CLASS_$_UISwitch  "setFrame:"]: 1
+[  "mediatedInterstitial"]: 1
+[ _OBJC_CLASS_$_NSNumber  selRef_numberWithFloat_; "numberWithFloat:"]: 4
+[ _OBJC_CLASS_$_GADWebViewDelegate  "init"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "objectAtIndex:"]: 2
+[  "window"]: 2
+[ _OBJC_CLASS_$_NSBundle  "developmentLocalization"]: 1
+[  "adViewDidDismissScreen:"]: 1
+[  "layer"]: 1
+[  "setRowHeight:"]: 1
+[  "gadmDidDismissFullScreenModal"]: 1
+[  "setIndentationLevel:"]: 1
+[  "corner"]: 4
+[ _OBJC_CLASS_$_AddCurrencyCell  "setSelectionStyle:"]: 1
+[  "statusBarWasHidden"]: 5
+[  "setPaddingChar:"]: 4
+[  "tableView:titleForFooterInSection:"]: 4
+[ _OBJC_CLASS_$_GADWebAppViewController  "autorelease"]: 1
+[  "mapView"]: 13
+[ _OBJC_CLASS_$_GADNotification  "objectForKey:"]: 1
+[ dword_A7CE0  "copy"]: 1
+[  "currentState"]: 1
+[ classRef_NSBundle  "bundleIdentifier"]: 1
+[  "setSupportedOrientations:"]: 2
+[ _OBJC_CLASS_$_GADRequest  "setBirthday:"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "initWithBarButtonSystemItem:target:acti"...]: 11
+[ dword_A7D34  "message:"]: 1
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 6  "indexPathForRow:inSection:"]: 1
+[  "adProvider"]: 2
+[ _OBJC_CLASS_$_UILabel  "setShadowOffset:"]: 4
+[  "addMapOverlayForCountry:"]: 1
+[ _OBJC_CLASS_$_UIActionSheet  "isoCode"]: 1
+[  "clickUrls"]: 1
+[  "lastPathComponent"]: 2
+[  "loadHTMLFromURL:"]: 1
+[  "stringByEvaluatingJavaScriptFromString:"]: 4
+[  "objectForKey:"]: 82
+[ _OBJC_CLASS_$_GADRequestError  "errorWithCode:customMessage:"]: 8
+[ _OBJC_CLASS_$_GADNetworkChecker  "alloc"]: 1
+[  "didDismissScreen"]: 3
+[  "requestParameters"]: 1
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "isEqualToString:"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  _OBJC_CLASS_$_NSNumberFormatter]: 1
+[ _OBJC_CLASS_$_UIApplication  "statusBarOrientation"]: 3
+[  "setCorner:"]: 5
+[  "setSelectionStyle:"]: 2
+[  "contentAsData"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "alloc"]: 5
+[ _OBJC_CLASS_$_GADClickTracker  "autorelease"]: 2
+[  "addSubview:"]: 24
+[  "userGender"]: 3
+[  "runCommandOnWebView:"]: 1
+[  "dequeueReusableAnnotationViewWithIdenti"...]: 1
+[ _OBJC_CLASS_$_UIView  "setAutoresizingMask:"]: 5
+[ _OBJC_CLASS_$_UIAlertView  "release"]: 1
+[ _OBJC_CLASS_$_UITextField  "subviews"]: 1
+[ classRef_NSUserDefaults  "setObject:forKey:"]: 2
+[ _OBJC_CLASS_$_NSCharacterSet  "whitespaceCharacterSet"]: 2
+[  "failedToDownloadJavaScriptWithError:"]: 1
+[  "keypadPreset2"]: 5
+[ _OBJC_CLASS_$_NSTimeZone  "timeZoneWithAbbreviation:"]: 1
+[ _OBJC_CLASS_$_NSNotificationCenter  "removeObserver:"]: 6
+[ _OBJC_CLASS_$_UIToolbar  "setTintColor:"]: 1
+[  "setGadmConfig:"]: 1
+[  "tryToStoreResponseAndData"]: 1
+[ _OBJC_CLASS_$_UISwitch  "contentView"]: 1
+[ _OBJC_CLASS_$_GADClickTracker  "activeTrackings"]: 1
+[  "intValue"]: 13
+[  "becomeFirstResponder"]: 3
+[  "containsCurrencyIsoCode:"]: 5
+[ _OBJC_CLASS_$_GADClickTracker  "setDelegate:"]: 2
+[  "setPopoverController:"]: 3
+[ _OBJC_CLASS_$_NSDateFormatter  "setLocale:"]: 2
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setToRecipients:"]: 2
+[  "removeObjectAtIndex:"]: 2
+[ _OBJC_CLASS_$_NSURL  "URLWithString:"]: 15
+[ _OBJC_CLASS_$_UIApplication  "isStatusBarHidden"]: 4
+[  "setCurrenciesController:"]: 2
+[  selRef_y; "y"]: 1
+[  "setupRequest"]: 2
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "class"]: 2
+[  "isJailbroken"]: 1
+[ _OBJC_CLASS_$_NSDecimalNumber  "decimalNumberWithString:"]: 2
+[  "url"]: 2
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  "rfc4648Base64WebsafeStringEncoding"]: 1
+[ _OBJC_CLASS_$_NSDateComponents  "setDay:"]: 1
+[  "launchCompleted"]: 1
+[  "activateReloadTimer"]: 4
+[ _OBJC_CLASS_$_UITextField  "setKeyboardType:"]: 2
+[  "interstitialDidDismissScreen:"]: 2
+[ _OBJC_CLASS_$_NSArray  "alloc"]: 8
+[ _OBJC_CLASS_$_NSScanner  "scanUpToCharactersFromSet:intoString:"]: 1
+[  "currencyNameForIsoCode:"]: 14
+[ _OBJC_CLASS_$_NSDictionary  "initWithDictionary:copyItems:"]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "allocWithZone:"]: 1
+[  "adViewDidReceiveAd:"]: 1
+[  "setEditing:animated:"]: 2
+[  "changeAdTypeTo:"]: 2
+[ _OBJC_CLASS_$_NSArray  "arrayWithObjects:count:"]: 44
+[ dword_A7D6C  "timeIntervalSinceNow"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "setUserAgentString:"]: 1
+[  "conformsToProtocol:"]: 2
+[  "isEnabled"]: 1
+[  "deviceModel"]: 3
+[ _OBJC_CLASS_$_GADAdMobExtras  "init"]: 2
+[ _OBJC_CLASS_$_GADTiming  "release"]: 2
+[  "reportNoFill"]: 2
+[ classRef_UIDevice  "currentDevice"]: 3
+[  "registerForWebViewNotifications"]: 1
+[  "createGestureRecognizer"]: 1
+[  "setSpinnerContainingButton:"]: 1
+[ _OBJC_CLASS_$_NSString  "stringWithUTF8String:"]: 7
+[ _OBJC_CLASS_$_UILabel  "setAdjustsFontSizeToFitWidth:"]: 1
+[  "generateListContent"]: 2
+[ _OBJC_CLASS_$_MFMailComposeViewController  "alloc"]: 2
+[ _OBJC_CLASS_$_UIColor  "blackColor"]: 6
+[ _OBJC_CLASS_$_UIApplication  "isIdleTimerDisabled"]: 1
+[  "titleForSegmentAtIndex:"]: 1
+[  "setSafariButton:"]: 1
+[ _OBJC_CLASS_$_GADPrivateUtilities  "removePrivateObjectForKey:"]: 5
+[ _OBJC_CLASS_$_NSMutableDictionary  "removeObjectForKey:"]: 2
+[ _OBJC_CLASS_$_NSMutableDictionary  "init"]: 5
+[ _OBJC_CLASS_$_GADNotification  "alloc"]: 1
+[  "pathsForResourcesOfType:inDirectory:for"...]: 1
+[  "filePath"]: 9
+[  "isoCodeForSelectedAnnotation"]: 2
+[ _OBJC_CLASS_$_UISwitch  "class"]: 1
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "trackURL:appendSpamSignals:"]: 1
+[  "allHeaderFields"]: 2
+[  "callBackToConnectorWithError:isIntersti"...]: 4
+[ _OBJC_CLASS_$_GADMAdNetworkConfig  "initWithDictionary:error:"]: 1
+[  "setViewController:"]: 5
+[ _OBJC_CLASS_$_UIActionSheet  "name"]: 1
+[  "flagImageView"]: 18
+[ _OBJC_CLASS_$_NSMutableString  "componentsSeparatedByString:"]: 1
+[  "mediationExtras"]: 3
+[  "UTF8String"]: 3
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 8  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "class"]: 12
+[ _OBJC_CLASS_$_GADAdMobExtras  "class"]: 2
+[ _OBJC_CLASS_$_MapAnnotation  "setCountryCode:"]: 1
+[  "multipleAdSizeParameterFromSizes:"]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "sortedArrayUsingFunction:context:"]: 3
+[  "stringByAppendingPathComponent:"]: 6
+[ _OBJC_CLASS_$_GADBannerWebViewDelegate  "initWithObjectPrivate:"]: 1
+[ UIViewController *viewController_;  "length"]: 1
+[  "credentials"]: 6
+[ _OBJC_CLASS_$_UISwitch  _OBJC_CLASS_$_UITableViewCell]: 1
+[  "gadmWillDismissFullScreenModal"]: 1
+[ _OBJC_CLASS_$_GADWebAppViewController  "initWithWebView:"]: 2
+[  "didOpen"]: 7
+[ _OBJC_CLASS_$_GADAdType  "initForInterstitial"]: 1
+[  "indexPathsForVisibleRows"]: 2
+[ stru_A36E4  "stringByTrimmingCharactersInSet:"]: 1
+[ _OBJC_CLASS_$_UIPasteboard  "substringWithRange:"]: 1
+[  "setMaster:"]: 3
+[  "setIAdBannerView:"]: 2
+[ _OBJC_CLASS_$_NSUserDefaults  "standardUserDefaults"]: 69
+[  "gestureState"]: 3
+[ _OBJC_CLASS_$_NSBundle  "localizedStringForKey:value:table:"]: 97
+[ _OBJC_CLASS_$_UISearchDisplayController  "initWithSearchBar:contentsController:"]: 1
+[ _OBJC_CLASS_$_UITextField  "textLabel"]: 3
+[ _OBJC_CLASS_$_NSMutableString  selRef_UTF8String; "UTF8String"]: 1
+[ _OBJC_CLASS_$_NSIndexPath  "indexPathForRow:inSection:"]: 30
+[ _OBJC_CLASS_$_GADWebView  "class"]: 3
+[ _OBJC_CLASS_$_UIColor  "colorWithRed:green:blue:alpha:"]: 23
+[ _OBJC_CLASS_$_NSMutableArray  "init"]: 4
+[  "stringByTrimmingCharactersInSet:"]: 3
+[ _OBJC_CLASS_$_UITableViewCell  "textLabel"]: 22
+[ _OBJC_CLASS_$_GADAdMobExtras  "alloc"]: 2
+[ _OBJC_CLASS_$_AddCurrencyViewController  "setList:"]: 3
+[  "gadmDidReceiveInterstitial:"]: 1
+[  "domain"]: 3
+[  "setBarStyle:"]: 1
+[  "setRatesDictionary:"]: 2
+[  "annotations"]: 1
+[ _OBJC_CLASS_$_UILabel  "setNumberOfLines:"]: 4
+[  "scanValue:error:"]: 3
+[ off_A7310  "autorelease"]: 1
+[  "setQdata:"]: 1
+[ _OBJC_CLASS_$_GADWebAppViewController  "setDelegateManager:"]: 2
+[ _OBJC_CLASS_$_GADURLConnection  "init"]: 1
+[  "location"]: 6
+[  "openWebApp:supportedOrientations:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "objectForInfoDictionaryKey:"]: 3
+[  "pushViewController:animated:"]: 2
+[ _OBJC_CLASS_$_NSNotificationCenter  "removeObserver:name:object:"]: 27
+[ _OBJC_CLASS_$_UIView  "initWithFrame:"]: 10
+[ _OBJC_CLASS_$_GADNotificationCenter  "defaultCenter"]: 12
+[  "removeTimingNamed:"]: 2
+[  "postNotificationFromURL:object:"]: 1
+[ _OBJC_CLASS_$_UIPasteboard  "string"]: 2
+[ _OBJC_CLASS_$_UIDevice  "runPadScreenshotsForIsoCode:withDuratio"...]: 1
+[  "ratesDictionary"]: 1
+[  "adViewHeight"]: 2
+[ _OBJC_CLASS_$_NSString  "formatStringWithSeparator:"]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "getOSMajor:minor:bugFix:"]: 3
+[ off_A7310  "copy"]: 1
+[  "scheduleReloadTimer:"]: 2
+[  "setEditing:"]: 2
+[ _OBJC_CLASS_$_UIView  "autorelease"]: 1
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_reachability_; "reachability:"]: 1
+[  "doubleValue"]: 13
+[  "isBannerAnimationOK:"]: 1
+[  "setMasterCurrencyCell:"]: 2
+[  "reloadButton"]: 5
+[  "keypad8"]: 3
+[  "setKeywords:"]: 2
+[  "actionSheet:clickedButtonAtIndex:"]: 2
+[ _OBJC_CLASS_$_GADPrivateUtilities  "isEqual:"]: 1
+[  "amountLabel"]: 15
+[  "setModalTransitionStyle:"]: 2
+[  "checkStateWithParamter:"]: 6
+[  "cleanUpConnection"]: 6
+[ _OBJC_CLASS_$_GADBannerView  "setAdUnitID:"]: 1
+[  "parseSettingsConfig:error:"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "setObject:forKey:"]: 70
+[ _OBJC_CLASS_$_GADMAdNetworkConnectorBanner  "setAdManager:"]: 1
+[ _OBJC_CLASS_$_GADMacros  "view"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "setString:"]: 1
+[ _OBJC_CLASS_$_GADStatisticsCore  "initWithIdentifier:"]: 2
+[  "addAnnotations:"]: 1
+[ _OBJC_CLASS_$_UIView  "alloc"]: 10
+[  "keypadPreset5"]: 4
+[ _OBJC_CLASS_$_NSLocale  "release"]: 1
+[ _OBJC_CLASS_$_GADURLConnection  "cacheKeyForURL:"]: 3
+[ classRef_NSUserDefaults  "standardUserDefaults"]: 7
+[  "interstitialWillPresentScreen:"]: 2
+[ _OBJC_CLASS_$_UIApplication  "setIdleTimerDisabled:"]: 2
+[  "setAdDebugDialog:"]: 3
+[ _OBJC_CLASS_$_NSCalendar  "initWithCalendarIdentifier:"]: 1
+[ _OBJC_CLASS_$_GADWebAppViewControllerPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_GADCachedURLResponse  "alloc"]: 1
+[  "setLeftBarButtonItem:animated:"]: 1
+[  "setObject:atIndexedSubscript:"]: 3
+[  "setImage:"]: 2
+[  "load:"]: 1
+[  "setState:"]: 3
+[ "EEEE, dd-MMM-yy HH:mm:ss z"  "retain"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "timeIntervalSinceNow"]: 1
+[ dword_A7D28  "retain"]: 1
+[ _OBJC_CLASS_$_NSString  "length"]: 3
+[  selRef_appendString_]: 1
+[  "setView:"]: 1
+[ _OBJC_CLASS_$_KeypadViewController  "setRestoreViewportAmount:"]: 1
+[  "cachedJavaScriptFileURL"]: 1
+[ _OBJC_CLASS_$_MKPolygonView  "initWithPolygon:"]: 1
+[  "backgroundView"]: 1
+[  "presentViewController:animated:completi"...]: 4
+[ _OBJC_CLASS_$_KeypadViewController  "setIsoCode:"]: 2
+[  "isPhoneIdiom"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "timeIntervalSinceDate:"]: 1
+[  "setIsAccessibilityElement:"]: 6
+[  "setLocation:"]: 3
+[ _OBJC_CLASS_$_Currency  "isoCode"]: 3
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  "decode:"]: 1
+[ _OBJC_CLASS_$_NSMutableString  selRef_substringToIndex_; "substringToIndex:"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCellView  "initWithFrame:"]: 1
+[ _OBJC_CLASS_$_MKPinAnnotationView  "setRightCalloutAccessoryView:"]: 2
+[ _OBJC_CLASS_$_GADMConfig  "adTypeFromString:"]: 1
+[ _OBJC_CLASS_$_UIImage  "imageWithCGImage:scale:orientation:"]: 1
+[  "view"]: 75
+[  "hasLoadedAtLeastOnce"]: 2
+[  "done:"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "endTimingNamed:"]: 6
+[  "anchorTextColor"]: 2
+[  "setBackgroundImage:forState:"]: 11
+[ _OBJC_CLASS_$_CurrencyBackgroundView  "initWithFrame:"]: 1
+[  "scanIsAtEnd"]: 1
+[  "type"]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "class"]: 1
+[ _OBJC_CLASS_$_UITextField  "setFrame:"]: 1
+[ _OBJC_CLASS_$_Currency  "setName:"]: 6
+[ _OBJC_CLASS_$_Currency  "alloc"]: 5
+[  selRef_runCommandOnWebView_]: 1
+[  "buildAdURLFromRequestParameters:"]: 1
+[  "addTrackingURLs:"]: 1
+[  selRef_z; "z"]: 1
+[ _OBJC_CLASS_$_NSURL  "length"]: 1
+[  "showAd:withBaseURL:"]: 1
+[ _OBJC_CLASS_$_UIScreen  "respondsToSelector:"]: 1
+[  "addGestureRecognizer:"]: 1
+[ _OBJC_CLASS_$_GADWebViewPrivate  "init"]: 1
+[ _OBJC_CLASS_$_KeypadViewController  "setCurrencyName:"]: 2
+[ _OBJC_CLASS_$_GADDelegateManager  "alloc"]: 2
+[  "elapsedMillisecondsString"]: 3
+[  "dequeueReusableCellWithIdentifier:"]: 12
+[  "setContentOffset:animated:"]: 1
+[  selRef_additionalParameters]: 1
+[  "adViewWillPresentScreen:"]: 1
+[  "isOn"]: 3
+[  "subviews"]: 6
+[  "adapterClass"]: 3
+[ _OBJC_CLASS_$_UIView  "beginAnimations:context:"]: 2
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_walkViews_; "walkViews:"]: 1
+[  "keypad5"]: 3
+[  "setAllowCache:"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "textColor"]: 1
+[  "minusSet:"]: 1
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "startAnimating"]: 2
+[  "sectionTitles"]: 3
+[ _OBJC_CLASS_$_GADMRAIDInterceptor  "setExpandedBannerImplementationPath:"]: 2
+[  "commonInitializer"]: 3
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "setModalTransitionStyle:"]: 1
+[ _OBJC_CLASS_$_GADWebAppWebViewDelegate  "alloc"]: 1
+[  "lastUpdateString"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  selRef_dictionaryWithObjectsAndKeys_; "dictionaryWithObjectsAndKeys:"]: 1
+[ NSString *receivedModificationDate_;  "cachedFile:downloadDidFail:"]: 1
+[ _OBJC_CLASS_$_GADNetworkChecker  "networkType"]: 1
+[ _OBJC_CLASS_$_GADRequestError  "localizedStringForErrorCode:"]: 1
+[  "getBorderTypeString:"]: 1
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 7  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_UIToolbar  "initWithFrame:"]: 2
+[ _OBJC_CLASS_$_Calculator  "viewportString"]: 2
+[  "setAdType:andReloadRequest:"]: 2
+[ classRef_NSUserDefaults  "objectForKey:"]: 2
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 1  "indexPathForRow:inSection:"]: 1
+[  "isPreciseLocation"]: 8
+[ _OBJC_CLASS_$_UIBarButtonItem  "alloc"]: 17
+[  "selectedAnnotations"]: 3
+[  "dismissPopoverAnimated:"]: 8
+[  "initWithResponse:data:"]: 1
+[  "setNumber:forKey:"]: 7
+[ stru_A36E4  "setMostRecentlyCurrencyTouched:"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "textAlignment"]: 1
+[  "screenDensity"]: 3
+[ _OBJC_CLASS_$_NSMutableDictionary  "alloc"]: 7
+[ _OBJC_CLASS_$_GADAdMobExtras  "setAdditionalParameters:"]: 2
+[ _OBJC_CLASS_$_GADTiming  "initWithCategory:"]: 1
+[ classRef_UIColor  "CGColor"]: 4
+[ _OBJC_CLASS_$_NSLocale  "displayNameForKey:value:"]: 1
+[ _OBJC_CLASS_$_NSString  "stringByStandardizingPath"]: 1
+[  "buttonWithImage:name:width:enabled:acti"...]: 2
+[  "keypadAdd"]: 6
+[ _OBJC_CLASS_$_NSScanner  "setScanLocation:"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "initWithTitle:style:target:action:"]: 2
+[  "isKindOfClass:"]: 59
+[  "restoreStatusBar"]: 1
+[  "segCtrl"]: 17
+[ _OBJC_CLASS_$_DFPExtras  "class"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "substringToIndex:"]: 1
+[  "URLsForResourcesWithExtension:subdirect"...]: 1
+[ _OBJC_CLASS_$_GADWebAppViewController  "setAdController:"]: 2
+[  "setHtmlToLoad:"]: 2
+[ _OBJC_CLASS_$_NSString  "setImage:"]: 1
+[  "interstitialDelegate"]: 1
+[  "appendFormat:"]: 1
+[  "hasBeenUsed"]: 3
+[  "VND"]: 1
+[  "searchResultsTableView"]: 7
+[ _OBJC_CLASS_$_UITableViewCell  "setLineBreakMode:"]: 1
+[  "opener"]: 10
+[ _OBJC_CLASS_$_GADStatistics  "endTimingAdapterWithExitCode:"]: 4
+[ _OBJC_CLASS_$_GADMConfig  "intVal:numberOrString:"]: 3
+[ _OBJC_CLASS_$_UITextField  "detailTextLabel"]: 1
+[ _OBJC_CLASS_$_GADAdURLStash  "objectPrivate"]: 1
+[  "willChangeAdSizeTo:"]: 1
+[  "adRequestReturnsFromConnector:withView:"]: 1
+[ "GAIAdMobInfo"  "performSelector:"]: 1
+[  "autorelease"]: 42
+[  "addCurrencyCellView"]: 2
+[  "isMRAID"]: 4
+[ _OBJC_CLASS_$_NSBundle  "viewportString"]: 3
+[  "removeTarget:action:forControlEvents:"]: 1
+[  "countryMaps"]: 1
+[  "addTiming:"]: 1
+[ _OBJC_CLASS_$_NSTimer  "scheduledTimerWithTimeInterval:target:s"...]: 5
+[ _OBJC_CLASS_$_CurrencyCellFast  "setNeedsDisplay"]: 1
+[  "adController"]: 7
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setModalTransitionStyle:"]: 1
+[  "stringValue"]: 3
+[  "setMostRecentlyCurrencyTouched:"]: 5
+[ classRef_Calculator  "op"]: 1
+[ _OBJC_CLASS_$_UISwitch  "initWithFrame:"]: 1
+[  _OBJC_CLASS_$_AddCurrencyViewController]: 1
+[  "downloadingError"]: 2
+[ _OBJC_CLASS_$_UIImage  "drawInRect:"]: 2
+[ classRef_GADMRAIDInterceptor  "refererURLFromRequest:"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCell  "setNeedsDisplay"]: 1
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 4  "indexPathForRow:inSection:"]: 1
+[  "screenshotLocalizations"]: 1
+[  "setUseFastCells:"]: 1
+[  "titleView"]: 1
+[  selRef_isHidden; "isHidden"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "setAppOpenInterstitialTimeOut"]: 1
+[  "setImage:forState:"]: 5
+[ _OBJC_CLASS_$_NSBundle  "localizations"]: 2
+[  "setCountryMaps:"]: 1
+[ _OBJC_CLASS_$_GADClickTracker  "init"]: 2
+[ _OBJC_CLASS_$_GADGestureUtil  selRef_viewInheritenceHierarchy_maxSize_; "viewInheritenceHierarchy:maxSize:"]: 1
+[  "pendingClickURLs"]: 1
+[  "description"]: 7
+[ _OBJC_CLASS_$_GADNotification  "isNotificationURL:"]: 2
+[ _OBJC_CLASS_$_UIAccelerometer  selRef_delegate; "delegate"]: 1
+[ _OBJC_CLASS_$_NSNumber  "intValue"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "initWithObjectsAndKeys:"]: 2
+[  "setName:"]: 3
+[  "showHideAdView:"]: 5
+[  "setGoogleAdBannerView:"]: 2
+[ _OBJC_CLASS_$_CAGradientLayer  "setColors:"]: 2
+[ stru_A36E4  "isPopoverVisible"]: 1
+[ _OBJC_CLASS_$_NSDate  "initWithTimeInterval:sinceDate:"]: 1
+[ _OBJC_CLASS_$_GADMSharedContext  "alloc"]: 1
+[  "changeState:"]: 20
+[ _OBJC_CLASS_$_NSString  "isEqualToString:"]: 2
+[  "synchronize"]: 4
+[ _OBJC_CLASS_$_UILabel  "setLineBreakMode:"]: 2
+[  "checkConfiguredAdType:withServerSetting"...]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "deviceAtLeastMinimumOSMajorVersion:mino"...]: 1
+[  "hasPrefix:"]: 4
+[ UIViewController *viewController_;  "path"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "setMinimumFractionDigits:"]: 4
+[  "expireDate"]: 1
+[  "isActive"]: 2
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "isOSAtLeastMajor:minor:bug:"]: 8
+[  "positionMasterCurrencyCell"]: 4
+[ _OBJC_CLASS_$_UIActionSheet  "navigationController"]: 1
+[ _OBJC_CLASS_$_NSMutableString  selRef_length; "length"]: 1
+[ _OBJC_CLASS_$_UIApplication  "setStatusBarHidden:"]: 3
+[  "processMediationResponse:"]: 1
+[  "removeDelegateWithRequestId:"]: 2
+[  "interfaceOrientation"]: 23
+[ classRef_UIColor  "clearColor"]: 1
+[  "insertSubview:belowSubview:"]: 1
+[  "adNetworkConfigs"]: 1
+[ classRef_UIImage  "imageWithCGImage:scale:orientation:"]: 1
+[  "nid"]: 2
+[ _OBJC_CLASS_$_UIImage  "respondsToSelector:"]: 2
+[ _OBJC_CLASS_$_GADWebAppViewController  "release"]: 1
+[  "pushDownView:byOriginY:"]: 20
+[ _OBJC_CLASS_$_UIBarButtonItem  "setIsAccessibilityElement:"]: 1
+[  "numberOfSegments"]: 4
+[ _OBJC_CLASS_$_GADUIWebViewGestureDelgate  "init"]: 1
+[ _OBJC_CLASS_$_MKPolygon  "polygonWithCoordinates:count:"]: 1
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "initWithActivityIndicatorStyle:"]: 3
+[  "countByEnumeratingWithState:objects:cou"...]: 78
+[ _OBJC_CLASS_$_NSCharacterSet  "characterIsMember:"]: 2
+[  "keypadSubtract"]: 6
+[ _OBJC_CLASS_$_NSDateFormatter  "alloc"]: 4
+[  "objectWithString:allowScalar:error:"]: 2
+[ _OBJC_CLASS_$_GAD_SBJSON  "release"]: 4
+[ ]: 56
+[ _OBJC_CLASS_$_AddCurrencyCellView  "alloc"]: 1
+[  "adType"]: 19
+[  "isInterstitial"]: 19
+[ _OBJC_CLASS_$_Downloader  "initWithUrl:delegate:"]: 1
+[  "setAdProvider:"]: 4
+[ _OBJC_CLASS_$_GADNetworkUtilities  "isEqualToString:"]: 1
+[  "iTunesMetadata"]: 2
+[ _OBJC_CLASS_$_AddCurrencyViewController  "init"]: 3
+[  "release"]: 163
+[  "savedDelegate"]: 1
+[ dword_A7D6C  "count"]: 1
+[  "publisherId"]: 2
+[ _OBJC_CLASS_$_NSMutableArray  "initWithArray:"]: 2
+[  "willPresentScreen"]: 2
+[  "USD"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "dictionaryWithDictionary:"]: 3
+[ _OBJC_CLASS_$_GADWebAppViewController  "setOpeningWebView:"]: 1
+[ _OBJC_CLASS_$_NSFileManager  "fileExistsAtPath:"]: 6
+[  "keypadConvert"]: 4
+[  "baseSdkVersion"]: 2
+[ _OBJC_CLASS_$_UILabel  "setText:"]: 5
+[ classRef_NSUserDefaults  "integerForKey:"]: 3
+[  "goBack"]: 1
+[ _OBJC_CLASS_$_Calculator  "hasOverflow"]: 1
+[  "resetAppOpenInterstitialNoFill"]: 1
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 3  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 5  "indexPathForRow:inSection:"]: 1
+[  "networkExtrasMap"]: 3
+[  "endTimingNamed:"]: 3
+[  "adRequestReturnsFromConnector:withInter"...]: 1
+[ _OBJC_CLASS_$_GADTiming  "initWithDictionaryRepresentation:"]: 2
+[  "networkExtrasFor:"]: 1
+[  "setViewDidAppear:"]: 2
+[  "interstitial:didFailToReceiveAdWithErro"...]: 2
+[ _OBJC_CLASS_$_GADNetworkUtilities  "userAgentString"]: 2
+[  "addDelegate:"]: 1
+[  "numberForKey:"]: 12
+[  "willHideAdView:"]: 1
+[ "{"  "stringByAppendingFormat:"]: 1
+[ _OBJC_CLASS_$_GADMacros  "networkExtrasMap"]: 1
+[  "gesture"]: 3
+[  "startWithURL:forDelegate:"]: 1
+[ _OBJC_CLASS_$_UIAccelerometer  selRef_sharedAccelerometer; "sharedAccelerometer"]: 1
+[  "addOverlay:"]: 1
+[  "restoreState"]: 1
+[  "resetPrimaryTimeout"]: 2
+[ _OBJC_CLASS_$_UITableViewCell  "alloc"]: 9
+[  "respondsToSelector:"]: 45
+[ _OBJC_CLASS_$_UIView  "setBackgroundColor:"]: 7
+[ _OBJC_CLASS_$_NSArray  "countByEnumeratingWithState:objects:cou"...]: 6
+[  "setIsoCode:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "setLocalization:"]: 3
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_UILabel]: 1
+[  "processHTTPHeaders:"]: 2
+[ _OBJC_CLASS_$_NSBundle  "mainBundle"]: 112
+[  "isSubclassOfClass:"]: 1
+[ _OBJC_CLASS_$_UIColor  "CGColor"]: 5
+[  "loadDidReceiveRedirectResponse:"]: 1
+[ _OBJC_CLASS_$_CAGradientLayer  "layer"]: 2
+[  "adManager"]: 9
+[  "setWidth:forSegmentAtIndex:"]: 1
+[  "askAdapterToStopBeingDelegate"]: 3
+[ stru_A36E4  "tableView"]: 2
+[  "isoCodeForCurrencyName:"]: 2
+[  "URLProtocol:didFailWithError:"]: 1
+[ _OBJC_CLASS_$_UIView  "commitAnimations"]: 2
+[  "appendValue:arrayForKey:"]: 2
+[ _OBJC_CLASS_$_MapViewController  "alloc"]: 1
+[  "savePersistentTimings"]: 2
+[ _OBJC_CLASS_$_UITableViewCell  "setTextColor:"]: 3
+[  "setAdView:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "timingNamed:"]: 5
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_NSBundle]: 1
+[  "doneButton"]: 7
+[  "scanHexQuad:error:"]: 2
+[ _OBJC_CLASS_$_GADMConfig  "initWithAppKey:configDict:errorReturn:"]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "setGroupingSeparator:"]: 1
+[  "scheme"]: 6
+[  "mediationManager"]: 3
+[  "setText:"]: 10
+[  "removeOverlays:"]: 2
+[ _OBJC_CLASS_$_Downloader  "startWithTimeout:"]: 1
+[ _OBJC_CLASS_$_GADCachedURLResponse  "autorelease"]: 1
+[  "isLoading"]: 3
+[  "pointInside:withEvent:"]: 3
+[ _OBJC_CLASS_$_UIImageView  "setAutoresizingMask:"]: 1
+[  "insertCurrency:atIndex:"]: 3
+[  "addClickTrackingURLs:"]: 1
+[ "Request Error: "  "stringByAppendingString:"]: 1
+[  "mutableCopy"]: 11
+[  "replaceOccurrencesOfString:withString:o"...]: 1
+[ _OBJC_CLASS_$_GADJavaScriptController  "sharedInstance"]: 1
+[ _OBJC_CLASS_$_NSNotificationCenter  "addObserver:selector:name:object:"]: 20
+[  "setDoneButton:"]: 1
+[ _OBJC_CLASS_$_GADWebAppViewController  "presentFromViewController:"]: 1
+[  "init"]: 3
+[  "setURL:forView:"]: 1
+[  "currenciesController"]: 73
+[ _OBJC_CLASS_$_NSMutableDictionary  "dictionaryWithObjectsAndKeys:"]: 1
+[ _OBJC_CLASS_$_NSString  "stringByReplacingOccurrencesOfString:wi"...]: 1
+[ _OBJC_CLASS_$_NSArray  "arrayByAddingObjectsFromArray:"]: 2
+[  "setDeviceSpecs:"]: 1
+[ _OBJC_CLASS_$_NSData  "dataWithBytesNoCopy:length:freeWhenDone"...]: 1
+[ _OBJC_CLASS_$_LegalViewController  "init"]: 1
+[ _OBJC_CLASS_$_NSString  "retain"]: 1
+[ _OBJC_CLASS_$_NSScanner  "scanInteger:"]: 1
+[ _OBJC_CLASS_$_CurrencySourceCell  "textLabel"]: 10
+[ _OBJC_CLASS_$_KeypadViewController  "class"]: 1
+[ _OBJC_CLASS_$_AboutViewController  "init"]: 2
+[  "isTesting"]: 3
+[  "createToolbarButtons"]: 1
+[  selRef_setReferringURLToLoad_]: 1
+[ _OBJC_CLASS_$_NSString  "initWithFormat:"]: 2
+[  "userKeywords"]: 3
+[  "stringForKey:"]: 1
+[  "currenciesBySource"]: 2
+[  "noFillUrls"]: 1
+[ _OBJC_CLASS_$_GADWebView  selRef_autorelease]: 1
+[ _OBJC_CLASS_$_GADOpener  "setDelegateManager:"]: 1
+[  "scheduleInRunLoop:forMode:"]: 2
+[ _OBJC_CLASS_$_GAD_SBJSON  "alloc"]: 4
+[ _OBJC_CLASS_$_GADOpener  "alloc"]: 2
+[  "pendingTrackingURLs"]: 2
+[ _OBJC_CLASS_$_NSBundle  "preferredLocalizationsFromArray:"]: 1
+[  "testDevices"]: 2
+[  "setItems:animated:"]: 8
+[  "image"]: 7
+[ _OBJC_CLASS_$_GADLocation  "initWithLatitude:longitude:accuracy:"]: 2
+[ _OBJC_CLASS_$_NSMutableString  "stringWithCapacity:"]: 2
+[ _OBJC_CLASS_$_UITextField  "countByEnumeratingWithState:objects:cou"...]: 2
+[  "compare:"]: 1
+[ classRef_NSMutableArray  "array"]: 1
+[ _OBJC_CLASS_$_NSBundle  "objectAtIndex:"]: 1
+[  "setTouched:"]: 3
+[  "keypadPreset6"]: 4
+[ _OBJC_CLASS_$_GADStatistics  "setBreakOutToSafari"]: 1
+[  "spamSignals"]: 1
+[  "timingForCategory:"]: 2
+[ _OBJC_CLASS_$_NSFileManager  "removeItemAtPath:error:"]: 1
+[ _OBJC_CLASS_$_NSBundle  "count"]: 1
+[ selRef_release  "isKindOfClass:"]: 2
+[  "allowFileAccess"]: 3
+[ _OBJC_CLASS_$_NSMutableString  "UTF8String"]: 1
+[  "setAlpha:"]: 14
+[ dword_A7D28  "autorelease"]: 1
+[  "setCurrentState:"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "dictionaryWithDictionary:"]: 2
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "setAutoresizingMask:"]: 1
+[ _OBJC_CLASS_$_CurrencySourceCell  "setBackgroundColor:"]: 1
+[  "overlays"]: 2
+[ _OBJC_CLASS_$_NSString  "initWithString:"]: 5
+[ "bounds"  "currencyName"]: 1
+[ _OBJC_CLASS_$_NSNumber  "numberWithLongLong:"]: 1
+[  "relinquishScreen"]: 1
+[  "navigationItem"]: 17
+[ _OBJC_CLASS_$_NSThread  selRef_countByEnumeratingWithState_objects_count_; "countByEnumeratingWithState:objects:cou"...]: 2
+[  "tableView:commitEditingStyle:forRowAtIn"...]: 2
+[  "additionalParameters"]: 6
+[  "setRightBarButtonItem:"]: 5
+[  "makeObjectsPerformSelector:"]: 5
+[  "adapter"]: 8
+[  "setWebViewDelegate:"]: 2
+[ jumptable 0001ACB0 case 2  "keypadMultiply"]: 1
+[ _OBJC_CLASS_$_GADIntrinsicImages  "screenshotOfView:"]: 1
+[ _OBJC_CLASS_$_UIColor  "lightGrayColor"]: 3
+[ _OBJC_CLASS_$_AddCurrencyCell  "setCurrencyName:"]: 1
+[ _OBJC_CLASS_$_GADMSharedContext  "getSeqNumAndIncrement"]: 2
+[  "resetClickBackgroundedApp"]: 1
+[  "restoreViewportAmount"]: 1
+[  "saveDataToFile"]: 1
+[  "keypadPreset1"]: 6
+[  "evaluate"]: 6
+[ _OBJC_CLASS_$_GADSearchRequestPrivate  "class"]: 1
+[  "canOpenURLs:"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "initWithCustomView:"]: 3
+[ "sms:"  "length"]: 1
+[  "contentAsString"]: 4
+[ _OBJC_CLASS_$_GADAdFetcher  "initWithDelegate:"]: 1
+[ _OBJC_CLASS_$_NSLocale  "alloc"]: 3
+[  "port"]: 1
+[  "setIsCollapsing:"]: 1
+[ _OBJC_CLASS_$_GADNotification  "initWithNotificationURL:"]: 1
+[ _OBJC_CLASS_$_NSLocale  "currentLocale"]: 12
+[ _OBJC_CLASS_$_GADAdURLStash  "adType"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "objectForKey:"]: 1
+[  "setBackButton:"]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "autorelease"]: 1
+[  "isAppActive"]: 1
+[  "urlToLoad"]: 4
+[  "sourceURL"]: 3
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "readITunesMetadataFileAt:"]: 1
+[ _OBJC_CLASS_$_NSMutableCharacterSet  "characterSetWithRange:"]: 1
+[ classRef_NSMutableArray  "addObjectsFromArray:"]: 1
+[  "loadGoogleAds"]: 1
+[ _OBJC_CLASS_$_GADRequest  "setTesting:"]: 1
+[  "setSdkInterstitialDelegate:"]: 2
+[ _OBJC_CLASS_$_NSBundle  "containsObject:"]: 1
+[ _OBJC_CLASS_$_UIApplication  selRef_sharedApplication; "sharedApplication"]: 2
+[ _OBJC_CLASS_$_UIDevice  classRef_NSIndexPath]: 1
+[ _OBJC_CLASS_$_GADAdType  "autorelease"]: 2
+[ "relinquishScreen"  "parameters"]: 5
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "canSendText"]: 1
+[ "\n"  "stringByAppendingString:"]: 1
+[  "registerAdNetworkExtras:"]: 1
+[  "jsBuildAdURL"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "length"]: 4
+[ _OBJC_CLASS_$_NSIndexPath; jumptable 00028B62 case 2  "indexPathForRow:inSection:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "seedRandomIfNecessary"]: 1
+[  "setBackgroundColor:"]: 12
+[ _OBJC_CLASS_$_NSIndexPath  "row"]: 5
+[  "appendString:into:error:"]: 2
+[ _OBJC_CLASS_$_UIFont  "boldSystemFontOfSize:"]: 11
+[ _OBJC_CLASS_$_UIButton  "addTarget:action:forControlEvents:"]: 3
+[ _OBJC_CLASS_$_NSNotificationCenter  "defaultCenter"]: 67
+[  "autoresizingMask"]: 1
+[ _OBJC_CLASS_$_GADCachedFile  "dateFromString:"]: 1
+[  "requestingConnector"]: 9
+[  "webView"]: 55
+[ _OBJC_CLASS_$_UINavigationController  "initWithRootViewController:"]: 6
+[ _OBJC_CLASS_$_NSMutableArray  "containsObject:"]: 2
+[  "performSelector:withObject:afterDelay:"]: 9
+[  "setAmountTextField:"]: 1
+[ _OBJC_CLASS_$_NSDateFormatter  "setDateFormat:"]: 4
+[  "private"]: 56
+[ _OBJC_CLASS_$_UITextField  "setBackgroundColor:"]: 1
+[  "admobRequest"]: 1
+[ _OBJC_CLASS_$_UISwitch  "setAutoresizingMask:"]: 1
+[  "objectForKeyedSubscript:"]: 14
+[ _OBJC_CLASS_$_GADStatistics  "sessionStatsNames"]: 2
+[ _OBJC_CLASS_$_CurrenciesController  "alloc"]: 1
+[  "adDebugDialog"]: 7
+[  "valueForHTTPHeaderField:"]: 2
+[ _OBJC_CLASS_$_UISwitch  "row"]: 1
+[  "refreshButton"]: 4
+[  "adapterWillPresentFullScreenModal:"]: 2
+[  "humanReadable"]: 5
+[  "fontFamily"]: 2
+[  "setExpireDate:"]: 1
+[  "keypadPreset"]: 1
+[ _OBJC_CLASS_$_GADMUtilities  "mediationUrlFrom:adLocationId:adNetwork"...]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "dictionaryFromQueryString:withLowercase"...]: 4
+[  "removeTimingForCategory:"]: 3
+[  "setSearchResultsDataSource:"]: 2
+[ _OBJC_CLASS_$_UIButton  "setEnabled:"]: 1
+[ _OBJC_CLASS_$_NSMutableSet  "set"]: 1
+[ _OBJC_CLASS_$_Calculator  "sharedInstance"]: 13
+[ _OBJC_CLASS_$_MFMailComposeViewController  "setBccRecipients:"]: 1
+[  selRef_openApp_]: 1
+[  "scanRestOfString:error:"]: 1
+[ _OBJC_CLASS_$_MapAnnotation  "setLatitude:"]: 1
+[  "uppercaseString"]: 1
+[ _OBJC_CLASS_$_AddCurrencyViewController  "setDelegate:"]: 3
+[ _OBJC_CLASS_$_GADStatisticsCore  "alloc"]: 2
+[  "addDecodeSynonyms:"]: 2
+[ _OBJC_CLASS_$_CurrencyCell  "setDragging:"]: 1
+[  "zoomToRegion:animated:"]: 2
+[ _OBJC_CLASS_$_NSBundle  "pathForResource:ofType:"]: 9
+[  "removeAllDelegates"]: 1
+[ _OBJC_CLASS_$_GADMAdManager  "init"]: 1
+[  "setSymbol:"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "objectForKey:"]: 17
+[ _OBJC_CLASS_$_NSNumberFormatter  "init"]: 4
+[ _OBJC_CLASS_$_GADBannerView  "initWithAdSize:"]: 2
+[  selRef_setHtmlBaseURLToLoad_]: 1
+[ _OBJC_CLASS_$_NSMutableCharacterSet  "addCharactersInString:"]: 1
+[ _OBJC_CLASS_$_UIPasteboard  "generalPasteboard"]: 3
+[  "setNetworkConfig:"]: 1
+[  "updateToolbarTimer"]: 3
+[  "setCurrencySource:"]: 5
+[  "correctTableViewFrame:"]: 3
+[ _OBJC_CLASS_$_GADOpener  "init"]: 2
+[  "sortKeys"]: 1
+[  "settingsButton"]: 1
+[ _OBJC_CLASS_$_GADJavaScriptController  "init"]: 1
+[  "setPrioritizedAdNetCfgs:"]: 1
+[ _OBJC_CLASS_$_GADNotification  "autorelease"]: 1
+[  "setRootViewController:"]: 5
+[  "lastObject"]: 2
+[  "setString:"]: 8
+[  "timeIntervalSinceNow"]: 1
+[  "setDoPad:"]: 4
+[  "setMediationExtras:"]: 1
+[ _OBJC_CLASS_$_GADObjectPrivate  "initWithView:"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setAccessoryType:"]: 9
+[  "resetPageNavigationCount"]: 1
+[  selRef_setContentOffset_animated_]: 1
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "intValue"]: 3
+[  "didFailToReceiveAdWithError:"]: 10
+[ _OBJC_CLASS_$_GADAdURLStash  "isKindOfClass:"]: 1
+[ _OBJC_CLASS_$_NSNumber  "class"]: 4
+[ _OBJC_CLASS_$_GADInterstitial  "init"]: 1
+[  "objCType"]: 4
+[  "didOpenAnotherApplication"]: 1
+[  "stringByAppendingFormat:"]: 1
+[ jumptable 0001ACB0 case 1  "keypadSubtract"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setTextAlignment:"]: 1
+[ _OBJC_CLASS_$_GADBannerWebViewDelegate  "class"]: 1
+[  "splitViewPopoverController"]: 4
+[  "endUpdates"]: 4
+[ _OBJC_CLASS_$_UIActionSheet  "showInView:"]: 1
+[ _OBJC_CLASS_$_UITextField  "setText:"]: 2
+[ _OBJC_CLASS_$_UILabel  "setMinimumFontSize:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "incrementOfflineAdRequestCount"]: 1
+[  "setCurrencyName:"]: 2
+[  "safariButton"]: 7
+[  "createDemoData"]: 4
+[  "keypadButtons"]: 5
+[  "admobRootViewController"]: 1
+[  "instancesRespondToSelector:"]: 1
+[  "setSpinner:"]: 1
+[ _OBJC_CLASS_$_MKPolygonView  "setLineWidth:"]: 1
+[  "makeAdRequest"]: 2
+[  "setAutocapitalizationType:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "copy"]: 4
+[  "rotateAds"]: 1
+[  "primaryTimeoutInteger"]: 2
+[  "stringEncodingWithString:"]: 7
+[ _OBJC_CLASS_$_NSString  "class"]: 10
+[ _OBJC_CLASS_$_UITextField  "setAdjustsFontSizeToFitWidth:"]: 1
+[ _OBJC_CLASS_$_NSDictionary  "dictionaryWithObjectsAndKeys:"]: 6
+[ _OBJC_CLASS_$_UIApplication  selRef_keyWindow; "keyWindow"]: 2
+[ _OBJC_CLASS_$_UIDevice  "model"]: 1
+[  "currentDevice"]: 1
+[  "setRoundBottom:"]: 5
+[ _OBJC_CLASS_$_UIFont  "fontWithName:size:"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "alloc"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setFont:"]: 3
+[ _OBJC_CLASS_$_CurrencyRatesController  "isRefreshing"]: 2
+[ _OBJC_CLASS_$_GADMacros  "readJsonIntoDictionary:"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "setMaster:"]: 2
+[  "loadRequest:"]: 7
+[  "privateRequestWithRequest:"]: 1
+[ _OBJC_CLASS_$_UIMenuController  "setMenuVisible:animated:"]: 2
+[  "viewportButton"]: 9
+[ _OBJC_CLASS_$_NSDateFormatter  "init"]: 4
+[  "edit:"]: 1
+[  "setPendingOnShow:"]: 1
+[  "adapterWillPresentInterstitial:"]: 2
+[ _OBJC_CLASS_$_UILabel  "setFont:"]: 5
+[ _OBJC_CLASS_$_NSDictionary  "dictionaryWithContentsOfFile:"]: 1
+[  "touched"]: 2
+[  "downloader"]: 5
+[  "performSelector:"]: 4
+[  "hasSuffix:"]: 1
+[ _OBJC_CLASS_$_UIAlertView  "show"]: 3
+[ _OBJC_CLASS_$_GADMToGADGlue  "alloc"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "refreshIfCacheExpired"]: 1
+[  "loadPrivateRequest:autoRefresh:"]: 3
+[  "setUserInteractionEnabled:"]: 3
+[ _OBJC_CLASS_$_NSValue  "class"]: 2
+[  "sendInterstitialUsageError"]: 3
+[ _OBJC_CLASS_$_GADStatistics  "startTimingAdapter"]: 1
+[  "vars"]: 148
+[  "didRotateToOrientation:"]: 2
+[  "setBannerScreenshot:"]: 1
+[ _OBJC_CLASS_$_NSPredicate  "predicateWithFormat:"]: 3
+[ _OBJC_CLASS_$_NSDateFormatter  "autorelease"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "isEqualToString:"]: 3
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_UIActionSheet]: 1
+[ _OBJC_CLASS_$_NSNumberFormatter  "negativeSuffix"]: 9
+[ _OBJC_CLASS_$_Downloader  "start"]: 1
+[  "loadHTMLString:baseURL:"]: 4
+[  "iAdBannerView"]: 20
+[ _OBJC_CLASS_$_GADCachedFile  "stringFromDate:"]: 1
+[  "setSort:"]: 1
+[ jumptable 0001ACB0 case 3  "setBackgroundImage:forState:"]: 2
+[ _OBJC_CLASS_$_CAGradientLayer  "setFrame:"]: 2
+[ _OBJC_CLASS_$_GADWebAppWebViewDelegate  "autorelease"]: 1
+[  "saveCurrencies"]: 5
+[  "setContactSupportActionSheet:"]: 3
+[ classRef_UIDevice  "object"]: 3
+[ _OBJC_CLASS_$_NSHTTPURLResponse  "localizedStringForStatusCode:"]: 1
+[  "setAdditionalParameters:"]: 1
+[  "keypad1"]: 3
+[ _OBJC_CLASS_$_GADObjectPrivate  "alloc"]: 2
+[ _OBJC_CLASS_$_NSNull  "class"]: 1
+[ _OBJC_CLASS_$_UIApplication  "applicationState"]: 1
+[ _OBJC_CLASS_$_UIButton  "setImage:forState:"]: 4
+[  "allKeysForObject:"]: 1
+[  "stringWithObject:allowScalar:error:"]: 2
+[ _OBJC_CLASS_$_UIPopoverController  "alloc"]: 2
+[ _OBJC_CLASS_$_NSMutableArray  selRef_array; "array"]: 1
+[  "setShadowOffset:"]: 3
+[  "setBottomRightCorner:"]: 1
+[  "selectedAnnotationCountryName"]: 2
+[ _OBJC_CLASS_$_NSUserDefaults  _OBJC_CLASS_$_NSUserDefaults]: 1
+[ _OBJC_CLASS_$_UILabel  "initWithFrame:"]: 7
+[ _OBJC_CLASS_$_UIImage  "imageNamed:"]: 29
+[  "flashScrollIndicators"]: 2
+[ _OBJC_CLASS_$_GADSearchObjectPrivate  "release"]: 1
+[ _OBJC_CLASS_$_GADMNSURLConnectionFactory  "alloc"]: 1
+[  "htmlBaseURLToLoad"]: 1
+[  "componentsJoinedByString:"]: 4
+[ _OBJC_CLASS_$_GADBannerWebViewDelegate  "alloc"]: 1
+[  "tableView:numberOfRowsInSection:"]: 21
+[  "gradientTo"]: 2
+[  "setAccessibilityLabel:"]: 4
+[ _OBJC_CLASS_$_UIApplication  "canOpenURL:"]: 1
+[ _OBJC_CLASS_$_NSMutableString  selRef_appendFormat_; "appendFormat:"]: 3
+[  "removeAnnotations:"]: 1
+[ _OBJC_CLASS_$_NSIndexPath  "section"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "setNumberOfLines:"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "parameterValueForKey:fromURL:"]: 2
+[ _OBJC_CLASS_$_GADPrivateUtilities  "setURL:forView:"]: 1
+[ _OBJC_CLASS_$_GADAdMobExtras  "autorelease"]: 2
+[  "lineBreakMode"]: 1
+[  "roundTop"]: 5
+[  "isClick:"]: 1
+[ stru_A36E4  "presentPopoverFromRect:inView:permitted"...]: 1
+[ _OBJC_CLASS_$_UISwitch  "alloc"]: 1
+[ _OBJC_CLASS_$_GADInterstitial  "alloc"]: 1
+[  "setReferringURL:"]: 1
+[ _OBJC_CLASS_$_NSJSONSerialization  "count"]: 1
+[  "displayMasterCurrencyCell"]: 2
+[ classRef_UIDevice  "setLeftBarButtonItem:animated:"]: 1
+[  "setUpdateToolbarTimer:"]: 2
+[ _OBJC_CLASS_$_KeypadViewController  "alloc"]: 2
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizer  "init"]: 1
+[ _OBJC_CLASS_$_GADTimingManager  "initWithIdentifier:"]: 1
+[ _OBJC_CLASS_$_NSThread  selRef_count; "count"]: 1
+[ _OBJC_CLASS_$_UISwitch  "countByEnumeratingWithState:objects:cou"...]: 2
+[ _OBJC_CLASS_$_CurrencyCellFast  "setRoundTop:"]: 1
+[  "keypadDivide"]: 5
+[  "loadAdURL:"]: 1
+[ _OBJC_CLASS_$_CurrencyBackgroundView  "alloc"]: 1
+[ _OBJC_CLASS_$_GADRequestPrivate  "alloc"]: 3
+[ "??"  selRef_UTF8String; "UTF8String"]: 1
+[ _OBJC_CLASS_$_NSArray  "arrayWithObjects:"]: 6
+[ _OBJC_CLASS_$_NSRunLoop  "currentRunLoop"]: 2
+[ _OBJC_CLASS_$_GADAdURLStash  "canonicalURLForURL:"]: 3
+[  "setRestoreViewportAmount:"]: 2
+[  "componentsSeparatedByString:"]: 8
+[  "setDownloadingError:"]: 8
+[ _OBJC_CLASS_$_SettingsUpdateRatesViewController  "initWithStyle:"]: 1
+[  "mapRegion"]: 2
+[  "appendDictionary:into:error:"]: 1
+[ _OBJC_CLASS_$_NSMutableData  "mutableBytes"]: 2
+[  "hasAutoRefreshed"]: 1
+[ _OBJC_CLASS_$_NSAssertionHandler  "currentHandler"]: 4
+[  "tracker:didRedirect:"]: 1
+[  "useAds"]: 2
+[  "canUseGoogleAds"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "resetTimingAdapters"]: 3
+[  "setTitle:forState:"]: 8
+[  "viewController"]: 8
+[  "renderInContext:"]: 1
+[ _OBJC_CLASS_$_AddCurrencyCell  "alloc"]: 1
+[  "backgroundColor"]: 4
+[  "setHtmlBaseURLToLoad:"]: 1
+[ _OBJC_CLASS_$_UIColor  "setAccessoryType:"]: 1
+[  selRef_class; "class"]: 1
+[  "load:referringURL:"]: 2
+[ _OBJC_CLASS_$_UIActivityIndicatorView  "alloc"]: 3
+[  "userHasLocation"]: 5
+[  selRef_x; "x"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "sharedStatistics"]: 34
+[ _OBJC_CLASS_$_NSMutableSet  "addObject:"]: 1
+[  "isGMSGNotificationURL:"]: 1
+[  "exchangeRateForCurrencyIsoCode:"]: 2
+[ _OBJC_CLASS_$_UILabel  "alloc"]: 7
+[ _OBJC_CLASS_$_UITextField  "setSelectionStyle:"]: 1
+[  "forwardButton"]: 2
+[  "beginBackgroundTask"]: 1
+[  "userLatitude"]: 2
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizer  "alloc"]: 1
+[ _OBJC_CLASS_$_NSMutableString  "length"]: 2
+[  "setCloseButton:"]: 1
+[  "setAdjustsImageWhenHighlighted:"]: 1
+[  "adapterDidDismissInterstitial:"]: 2
+[ _OBJC_CLASS_$_GADIntrinsicImages  "browserBackButton"]: 1
+[  "privateRequest"]: 2
+[ _OBJC_CLASS_$_NSMutableString  "stringWithString:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "randomUInt64"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "length"]: 3
+[  "boolValue"]: 3
+[  "addPendingDelegate:"]: 1
+[ _OBJC_CLASS_$_GADBrowserController  "presentFromViewController:"]: 1
+[  "decimalSeparatorIsPeriod"]: 1
+[  "editButton"]: 4
+[  "extrasForLabel:"]: 1
+[  "setCurrencyIsoCode:"]: 2
+[ ","  "isEqualToString:"]: 1
+[ _OBJC_CLASS_$_UIApplication  "sharedApplication"]: 20
+[ _OBJC_CLASS_$_MKUserLocation  "class"]: 1
+[  "setToolbar:"]: 2
+[ _OBJC_CLASS_$_NSMutableArray  "alloc"]: 12
+[ _OBJC_CLASS_$_MKPinAnnotationView  "alloc"]: 1
+[ _OBJC_CLASS_$_NSURLConnection  "connectionWithRequest:delegate:"]: 2
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "alloc"]: 1
+[  "appendString:"]: 15
+[ _OBJC_CLASS_$_NSCharacterSet  "punctuationCharacterSet"]: 1
+[ _OBJC_CLASS_$_NSURLConnection  "initWithRequest:delegate:startImmediate"...]: 1
+[  "elapsedMilliseconds"]: 1
+[  "borderType"]: 1
+[  "goForward"]: 1
+[  "setCurrencyActionSheet:"]: 2
+[ _OBJC_CLASS_$_GADAdURLStash  "viewForURL:"]: 2
+[  "stopAnimating"]: 1
+[  "ensureStatusBarHidden"]: 1
+[  selRef_requestNextAdNetwork]: 1
+[  "offlineAdRequestCount"]: 2
+[  "setDataSource:"]: 4
+[ _OBJC_CLASS_$_UIScreen  "mainScreen"]: 7
+[ _OBJC_CLASS_$_GADBrowserWebViewDelegate  "alloc"]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "insertSubview:belowSubview:"]: 1
+[  "topRightCorner"]: 2
+[  "restoreWindowAndRelease"]: 2
+[ _OBJC_CLASS_$_UILabel  "font"]: 2
+[ _OBJC_CLASS_$_NSJSONSerialization  "isKindOfClass:"]: 1
+[ _OBJC_CLASS_$_GADNotificationCenter  "addObserver:selector:name:object:"]: 6
+[  "googleAdBannerView"]: 20
+[  "trackingURL"]: 1
+[  "setDistanceMoved:"]: 10
+[  "setAddCurrencyViewControllerOffset:"]: 2
+[  "removeCurrencyAtIndex:"]: 3
+[ _OBJC_CLASS_$_CurrencyCellFast  "setCurrencyIsoCode:"]: 2
+[ _OBJC_CLASS_$_NSDecimalNumber  "notANumber"]: 1
+[  "setDelegateManager:"]: 2
+[  "scrollToRowAtIndexPath:atScrollPosition"...]: 3
+[ _OBJC_CLASS_$_SettingsViewController  "setCurrenciesController:"]: 1
+[ _OBJC_CLASS_$_GADPrivateUtilities  "privateObjectForKey:"]: 8
+[ _OBJC_CLASS_$_UIImage  "CGImage"]: 2
+[  "canUseIAd"]: 1
+[ _OBJC_CLASS_$_NSURL  "isKindOfClass:"]: 1
+[  "setTitleView:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "userLocationDescription"]: 1
+[ _OBJC_CLASS_$_UIToolbar  "addSubview:"]: 1
+[ _OBJC_CLASS_$_GADStatistics  "urlForClick:"]: 2
+[  "reducePrimaryTimeout"]: 1
+[  "longHoldTimer"]: 3
+[ _OBJC_CLASS_$_GADStatistics  "addClickTrackingURL:"]: 1
+[  "timeLastLoaded"]: 1
+[  "didNetworkRefresh"]: 5
+[ _OBJC_CLASS_$_CurrencyRatesController  "floatValue"]: 5
+[  "cancel"]: 9
+[ _OBJC_CLASS_$_NSUserDefaults  "boolForKey:"]: 13
+[ _OBJC_CLASS_$_UISwitch  _OBJC_CLASS_$_SettingsViewController]: 1
+[ _OBJC_CLASS_$_GADPrivateUtilities  "url"]: 1
+[  "refreshIfCacheExpired"]: 1
+[  "handleResponse:withBaseURL:"]: 1
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizerPrivate  "init"]: 1
+[ _OBJC_CLASS_$_GADStatisticsCore  "setDate:forKey:"]: 1
+[  "refreshToolbar"]: 4
+[ int  int]: 12
+[ _OBJC_CLASS_$_NSUserDefaults  "alloc"]: 3
+[ _OBJC_CLASS_$_CurrencyCellFast  "currencyCellFastView"]: 15
+[  "removedSingleCurrency:dismiss:"]: 1
+[ _OBJC_CLASS_$_CurrencyCell  "setRoundBottom:"]: 1
+[ _OBJC_CLASS_$_GADMSharedContext  "sessionId"]: 1
+[ _OBJC_CLASS_$_UIView  "animateWithDuration:animations:completi"...]: 3
+[  "loadMasterCurrencyCell"]: 4
+[ dword_A7CF0  "release"]: 1
+[  "activityIndicatorButton"]: 3
+[ _OBJC_CLASS_$_MKPinAnnotationView  "setPinColor:"]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "setEven:"]: 1
+[ _OBJC_CLASS_$_NSDateComponents  "release"]: 1
+[ _OBJC_CLASS_$_GADWebAppWebViewDelegate  "initWithWebAppPrivate:"]: 1
+[ _OBJC_CLASS_$_NSMutableData  "alloc"]: 2
+[ _OBJC_CLASS_$_MapAnnotation  "setLongitude:"]: 1
+[ _OBJC_CLASS_$_CurrencyAppDelegate  "shouldAutorotateToInterfaceOrientation:"]: 10
+[  "userLocation"]: 5
+[  "setTextAlignment:"]: 2
+[ "mailto:"  "length"]: 1
+[  selRef_startNetworkChecking]: 1
+[ _OBJC_CLASS_$_UINavigationController  "alloc"]: 6
+[  "popoverController"]: 13
+[  "headerFooterViewWithText:fontSize:cente"...]: 1
+[ _OBJC_CLASS_$_GADMAdManager  "pingMediationUrls:defaultUrl:withNetwor"...]: 3
+[ _OBJC_CLASS_$_Downloader  "startWithUrl:timeout:delegate:"]: 2
+[  "even"]: 1
+[  "setCurrencySources:"]: 1
+[  "indent"]: 4
+[  "keypad6"]: 3
+[ _OBJC_CLASS_$_GAD_GTMStringEncoding  selRef_encode_; "encode:"]: 1
+[  "objectAtIndexedSubscript:"]: 35
+[  "stopLoading"]: 1
+[  "contactSupportActionSheet"]: 4
+[  "initWithWebView:"]: 1
+[  "tableView"]: 136
+[ _OBJC_CLASS_$_UIApplication  "setNetworkActivityIndicatorVisible:"]: 3
+[  "removeAllObjects"]: 9
+[ _OBJC_CLASS_$_GADRequest  "setLocationWithLatitude:longitude:accur"...]: 1
+[  "isEqual:"]: 18
+[  "stripCredentials:andExtractShareLocatio"...]: 1
+[ _OBJC_CLASS_$_GADWebViewDelegate  "alloc"]: 1
+[ _OBJC_CLASS_$_NSBundle  "copy"]: 2
+[  "canGoBack"]: 2
+[  "list"]: 3
+[  "currencyCellFastView"]: 17
+[ _OBJC_CLASS_$_NSMutableDictionary  "dictionaryWithCapacity:"]: 3
+[  "genderString"]: 2
+[  "admobUnitID"]: 1
+[  "appKey"]: 3
+[ _OBJC_CLASS_$_NSScanner  "isAtEnd"]: 2
+[  "bannerScreenshot"]: 2
+[  "allowCache"]: 2
+[ _OBJC_CLASS_$_NSLocale  "autorelease"]: 1
+[  "visibleCells"]: 4
+[  "scrollRectToVisible:animated:"]: 2
+[ _OBJC_CLASS_$_NSString  "substringToIndex:"]: 1
+[  "setStatusBarWasHidden:"]: 4
+[ _OBJC_CLASS_$_NSNumberFormatter  "row"]: 1
+[  "loadHTML:baseURL:"]: 1
+[ stru_A36E4  "setSelectedCurrency:"]: 1
+[  "didYouNilOutYourDelegate:selector:"]: 19
+[  "setNeedsDisplay"]: 6
+[ _OBJC_CLASS_$_UIBarButtonItem  "autorelease"]: 6
+[  "dataUsingEncoding:"]: 2
+[ _OBJC_CLASS_$_GADAdURLStash  "add:forView:"]: 1
+[ _OBJC_CLASS_$_NSMutableArray  "arrayWithArray:"]: 1
+[ _OBJC_CLASS_$_GADWebAppViewController  "setSupportedOrientations:"]: 2
+[  "setTextColor:"]: 4
+[  _OBJC_CLASS_$_UIImage]: 3
+[  "setViewportButton:"]: 1
+[  "keypad9"]: 3
+[ _OBJC_CLASS_$_GADMacros  "jsonifyDictionary:"]: 2
+[ _OBJC_CLASS_$_GADTiming  "counter"]: 5
+[  "setSavedSuperview:"]: 2
+[ _OBJC_CLASS_$_CurrencyCell  "setCurrencyName:"]: 2
+[ _OBJC_CLASS_$_UISearchBar  "initWithFrame:"]: 1
+[ _OBJC_CLASS_$_UIBarButtonItem  "initWithImage:style:target:action:"]: 1
+[ stru_A36E4  "stringByAppendingFormat:"]: 1
+[ _OBJC_CLASS_$_NSValue  "value:withObjCType:"]: 3
+[  "mediateForAdType:config:"]: 1
+[  "processResponse:"]: 1
+[  "isAdMobNotificationURL:"]: 1
+[  selRef_loadDidFail_httpStatusCode_]: 1
+[  "viewHasAppeared"]: 1
+[ stru_A36E4  "setPopoverController:"]: 1
+[ _OBJC_CLASS_$_UISwitch  _OBJC_CLASS_$_NSUserDefaults]: 1
+[  "setStyle:"]: 1
+[  "adMediationGlue"]: 3
+[ _OBJC_CLASS_$_GADCustomEventRequest  "alloc"]: 2
+[ _OBJC_CLASS_$_GADAdFetcher  "alloc"]: 1
+[  "retain"]: 61
+[ _OBJC_CLASS_$_GADIntrinsicImages  "browserForwardButton"]: 1
+[ _OBJC_CLASS_$_CurrencyRatesController  "alloc"]: 1
+[  "setOn:"]: 2
+[  "encodeObject:forKey:"]: 7
+[  "stripedBackgroundView"]: 10
+[  "setSelectedCurrency:"]: 4
+[  "correctStyleForRowsInIndexPaths:"]: 7
+[ _OBJC_CLASS_$_GADObjectPrivate  "release"]: 2
+[  "resetFlagWithParameterName:"]: 4
+[ _OBJC_CLASS_$_GADBrowserControllerPrivate  "init"]: 1
+[  "setViewForAdUsingView:"]: 1
+[  "createPrivateData"]: 1
+[  "setRequiredContentSizeIdentifiers:"]: 1
+[  "selectedSegmentIndex"]: 4
+[  "closeButton"]: 4
+[ _OBJC_CLASS_$_NSNumberFormatter  _OBJC_CLASS_$_SettingsViewController]: 3
+[  "master"]: 2
+[  "searchDisplayController"]: 13
+[ _OBJC_CLASS_$_UITextField  "setAccessoryType:"]: 1
+[ _OBJC_CLASS_$_NSURLRequest  "requestWithURL:"]: 2
+[  "setAdUnitID:"]: 3
+[  "stop"]: 6
+[  "caseInsensitiveCompare:"]: 1
+[  "postNotificationName:object:userInfo:"]: 2
+[ "\n"  "stringByPaddingToLength:withString:star"...]: 1
+[  "updateAdapterTimingsForError:"]: 2
+[ _OBJC_CLASS_$_NSNumberFormatter  "setNegativeSuffix:"]: 6
+[ _OBJC_CLASS_$_NSBundle  "setOn:"]: 1
+[ _OBJC_CLASS_$_NSMutableDictionary  "retain"]: 1
+[ _OBJC_CLASS_$_NSString  "characterAtIndex:"]: 2
+[ _OBJC_CLASS_$_NSData  "dataWithContentsOfFile:"]: 2
+[ _OBJC_CLASS_$_GADClickTrackerCollection  "init"]: 1
+[ _OBJC_CLASS_$_GADBannerView  "alloc"]: 2
+[ _OBJC_CLASS_$_UITextField  "setTextAlignment:"]: 1
+[ _OBJC_CLASS_$_GADRequest  "init"]: 1
+[ classRef_NSMutableString  "appendString:"]: 4
+[ _OBJC_CLASS_$_GADWebAppViewControllerPrivate  "autorelease"]: 1
+[ _OBJC_CLASS_$_GADViewControllerPrivate  "init"]: 1
+[ _OBJC_CLASS_$_Calculator  "floatValue"]: 1
+[  "willLeaveApplication"]: 3
+[  "setRightBarButtonItem:animated:"]: 2
+[ _OBJC_CLASS_$_GADURLConnection  "alloc"]: 1
+[  "setContentSizeForViewInPopover:"]: 2
+[ _OBJC_CLASS_$_NSMutableData  "init"]: 2
+[  "isChecked"]: 2
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "isOrientationLandscape"]: 1
+[ _OBJC_CLASS_$_NSArray  "initWithArray:copyItems:"]: 2
+[  "requestAdWithType:gadmConfig:"]: 1
+[ _OBJC_CLASS_$_UIImageView  "autorelease"]: 1
+[ _OBJC_CLASS_$_UIApplication  "respondsToSelector:"]: 2
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizerPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_UIPopoverController  "initWithContentViewController:"]: 2
+[ _OBJC_CLASS_$_NSString  "stringWithFormat:"]: 105
+[ _OBJC_CLASS_$_GADSearchRequestPrivate  "allocWithZone:"]: 1
+[  "encodeDataObject:"]: 1
+[  "appendData:"]: 2
+[  "client"]: 2
+[ _OBJC_CLASS_$_GADMAdManager  "alloc"]: 1
+[ "stringWithFormat:"  "retain"]: 2
+[ _OBJC_CLASS_$_GADRequestPrivate  "init"]: 2
+[  "copy"]: 20
+[ _OBJC_CLASS_$_UIActionSheet  "showFromRect:inView:animated:"]: 2
+[  "amountsForPreset:"]: 2
+[  "gadmWillDismissInterstitial"]: 1
+[  "setCollation:"]: 1
+[  "userLocationDescription"]: 1
+[  "start"]: 4
+[ classRef_NSIndexPath  "indexPathForRow:inSection:"]: 1
+[  "keypadAddString:"]: 3
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "setBody:"]: 1
+[  "customChannels"]: 2
+[ _OBJC_CLASS_$_NSCalendar  "release"]: 1
+[ _OBJC_CLASS_$_NSUserDefaults  "integerForKey:"]: 4
+[  "adView:didFailToReceiveAdWithError:"]: 1
+[  "cancelPendingActions"]: 6
+[ _OBJC_CLASS_$_CurrencyCell  "initWithReuseIdentifier:"]: 1
+[ _OBJC_CLASS_$_NSNotification  "notificationWithName:object:"]: 11
+[  "hasError"]: 2
+[  "resetSSLPageNavigationCount"]: 1
+[  "characterAtIndex:"]: 1
+[ _OBJC_CLASS_$_MapAnnotation  "isoCode"]: 1
+[  "annotation"]: 6
+[ _OBJC_CLASS_$_UIApplication  selRef_setStatusBarHidden_animated_]: 2
+[ _OBJC_CLASS_$_GADMacros  "private"]: 2
+[  "viewport"]: 6
+[  "sortedArrayFromArray:collationStringSel"...]: 1
+[ _OBJC_CLASS_$_UITableViewCell  "contentView"]: 10
+[  "lowercaseString"]: 6
+[  "setSavedState:"]: 2
+[ _OBJC_CLASS_$_NSTimeZone  "timeZoneForSecondsFromGMT:"]: 1
+[ _OBJC_CLASS_$_GADWebView  "initWithFrame:"]: 3
+[ _OBJC_CLASS_$_CurrencyCell  "alloc"]: 1
+[  "trackURL:appendSpamSignals:"]: 1
+[ _OBJC_CLASS_$_CurrencyCell  "setMaster:"]: 2
+[ _OBJC_CLASS_$_CurrencyCell  "setCurrencyIsoCode:"]: 2
+[  "deleteRowsAtIndexPaths:withRowAnimation"...]: 3
+[  "showDebug"]: 2
+[ _OBJC_CLASS_$_GADMToGADGlue  "init"]: 1
+[  "dictionaryRepresentation"]: 3
+[  "admobKeywords"]: 1
+[  "setTesting:"]: 1
+[ _OBJC_CLASS_$_GADAdType  "interstitialAdType"]: 2
+[ _OBJC_CLASS_$_GADStatisticsCore  "release"]: 1
+[ _OBJC_CLASS_$_NSThread  "mainThread"]: 6
+[ _OBJC_CLASS_$_GADIntrinsicImages  "closeButton"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "appendQueryKey:value:toURL:"]: 2
+[ _OBJC_CLASS_$_NSNumber  "compare:"]: 2
+[ _OBJC_CLASS_$_GADImpressionTicketGestureRecognizer  "class"]: 1
+[ _OBJC_CLASS_$_NSLocale  "characterAtIndex:"]: 2
+[ _OBJC_CLASS_$_Calculator  "alloc"]: 1
+[  "sendInterstitialError:"]: 2
+[ _OBJC_CLASS_$_CurrencyCellFast  "class"]: 2
+[ _OBJC_CLASS_$_UIDevice  classRef_UIColor]: 1
+[ _OBJC_CLASS_$_CurrencyCellFast  "setDragging:"]: 1
+[ _OBJC_CLASS_$_NSArray  "class"]: 13
+[ _kCFAllocatorDefault  "autorelease"]: 1
+[  "shouldRedirectToURL:"]: 1
+[ _OBJC_CLASS_$_UIDevice  _OBJC_CLASS_$_CurrencyRatesController]: 1
+[ _OBJC_CLASS_$_GADRequest  "setLocationWithDescription:"]: 1
+[ _OBJC_CLASS_$_GADBrowserControllerPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_UIPasteboard  "length"]: 1
+[ _OBJC_CLASS_$_GADNetworkUtilities  "getImpressionTicketFromUrlPath:"]: 1
+[  "setAdController:"]: 3
+[  "setAccessoryType:"]: 3
+[ _OBJC_CLASS_$_NSString  "setAdType:andReloadRequest:"]: 1
+[ _OBJC_CLASS_$_NSDateComponents  "init"]: 1
+[  "adUnitID"]: 2
+[  "imageNamed:"]: 1
+[  "setDidOpenAnotherApplication:"]: 1
+[  "setHtmlWindowWithOrientation:andFireEve"...]: 2
+[  selRef_cleanUpConnection]: 1
+[  "section"]: 20
+[ "EEE, dd MMM yyyy HH:mm:ss z"  "retain"]: 1
+[  "toolbar"]: 23
+[ _OBJC_CLASS_$_NSMutableArray  "arrayWithCapacity:"]: 5
+[  "loadPins"]: 1
+[  "setLongHoldTimer:"]: 1
+[  "hasOverflow"]: 3
+[  "hexStringFromColor:"]: 7
+[  "timestamp"]: 1
+[  "response"]: 1
+[ _OBJC_CLASS_$_GADOpener  "openApp:"]: 1
+[  "isPopoverVisible"]: 8
+[  "category"]: 2
+[ _OBJC_CLASS_$_NSDictionary  "dictionaryWithObjects:forKeys:count:"]: 1
+[ dword_A7D60  "autorelease"]: 1
+[ _OBJC_CLASS_$_NSURLResponse  "alloc"]: 1
+[  "setGadmDelegate:"]: 10
+[  "searchBar"]: 11
+[ _OBJC_CLASS_$_GADIdentifierUtilities  "init"]: 1
+[ classRef_NSMutableArray  "alloc"]: 2
+[ _OBJC_CLASS_$_GAD_SBJSON  "isKindOfClass:"]: 2
+[  "CGColor"]: 2
+[ _OBJC_CLASS_$_GADStatistics  "alloc"]: 1
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "setMessageComposeDelegate:"]: 1
+[  "allCurrencies"]: 4
+[ _OBJC_CLASS_$_GADPrivateUtilities  "setPrivateObject:forKey:"]: 6
+[  "isMediating"]: 7
+[  "stringByReplacingOccurrencesOfString:wi"...]: 12
+[  "updateKeypadPreset"]: 1
+[ _OBJC_CLASS_$_MFMailComposeViewController  "init"]: 2
+[  "makeKeyAndVisible"]: 1
+[ "EEE, dd MMM yyyy HH:mm:ss z"  "dateFromString:"]: 1
+[  "setOpaque:"]: 5
+[  "adapter:didReceiveAdView:"]: 2
+[ _OBJC_CLASS_$_GADWebViewPrivate  "alloc"]: 1
+[ _OBJC_CLASS_$_GADLocation  "alloc"]: 3
+[ _OBJC_CLASS_$_MKPinAnnotationView  "setCanShowCallout:"]: 1
+[  "invalidate"]: 19
+[  "setClipsToBounds:"]: 3
+[  jumptable 00029FC0 case 5]: 1
+[ _OBJC_CLASS_$_NSMutableCharacterSet  "retain"]: 1
+[ _OBJC_CLASS_$_NSURLProtocol  "registerClass:"]: 1
+[ _OBJC_CLASS_$_UIApplication  "beginBackgroundTaskWithExpirationHandle"...]: 1
+[  "canGoForward"]: 2
+[  "keypadMultiply"]: 6
+[ _OBJC_CLASS_$_NSURLResponse  "initWithURL:MIMEType:expectedContentLen"...]: 1
+[ _OBJC_CLASS_$_NSDateFormatter  "setTimeZone:"]: 2
+[  "setFlagImageView:"]: 1
+[  "resetRequestingState"]: 2
+[ _OBJC_CLASS_$_MFMessageComposeViewController  "alloc"]: 1
+[  "delegateManager"]: 42
+[  "setAutoresizesSubviews:"]: 1
+[  "moveCurrencyFromIndex:toIndex:"]: 1
+[ _OBJC_CLASS_$_UIButton  "setFrame:"]: 3
+[ _OBJC_CLASS_$_CurrencySourceCell  "setText:"]: 1
+[ _OBJC_CLASS_$_GADRequestError  "alloc"]: 1
+[  "setTableView:"]: 1
+[ _OBJC_CLASS_$_GADStatisticsCore  "dateForKey:"]: 1
+[  "keypad2"]: 3

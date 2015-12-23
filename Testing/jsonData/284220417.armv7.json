@@ -1,0 +1,4862 @@
+[
+  {
+    "className": "UIColor",
+    "methodList": [
+      {
+        "methodName": "colorWithRed:green:blue:alpha:",
+        "callCount": 2
+      },
+      {
+        "methodName": "darkGrayColor",
+        "callCount": 1
+      },
+      {
+        "methodName": "whiteColor",
+        "callCount": 2
+      },
+      {
+        "methodName": "set",
+        "callCount": 1
+      },
+      {
+        "methodName": "clearColor",
+        "callCount": 2
+      },
+      {
+        "methodName": "textLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "blackColor",
+        "callCount": 2
+      },
+      {
+        "methodName": "setTextColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "CGColor",
+        "callCount": 2
+      },
+      {
+        "methodName": "lightGrayColor",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessoryType:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIView",
+    "methodList": [
+      {
+        "methodName": "insertSublayer:atIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAnimationDuration:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "layer",
+        "callCount": 1
+      },
+      {
+        "methodName": "animateWithDuration:animations:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAnimationDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addSubview:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "beginAnimations:context:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBackgroundColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "commitAnimations",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADNotification",
+    "methodList": [
+      {
+        "methodName": "isGMSGNotificationURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "name",
+        "callCount": 1
+      },
+      {
+        "methodName": "notificationFromURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isAdMobNotificationURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "parameters",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "isNotificationURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithNotificationURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UISearchDisplayController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithSearchBar:contentsController:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebView",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSDate",
+    "methodList": [
+      {
+        "methodName": "dateWithTimeIntervalSinceNow:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "timeIntervalSinceDate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "date",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "dateWithTimeIntervalSince1970:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithTimeInterval:sinceDate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSURLResponse",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "AddCurrencyViewController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setList:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSNotificationCenter",
+    "methodList": [
+      {
+        "methodName": "postNotification:",
+        "callCount": 1
+      },
+      {
+        "methodName": "postNotificationName:object:userInfo:",
+        "callCount": 1
+      },
+      {
+        "methodName": "postNotificationName:object:",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeObserver:",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeObserver:name:object:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addObserver:selector:name:object:",
+        "callCount": 1
+      },
+      {
+        "methodName": "defaultCenter",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "KeypadViewController",
+    "methodList": [
+      {
+        "methodName": "setCurrencyAmount:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencySymbol:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRestoreViewportAmount:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setIsoCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSString",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "private",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithFormat:",
+        "callCount": 2
+      },
+      {
+        "methodName": "stringWithString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "pathWithComponents:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithData:encoding:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithCString:encoding:",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithUTF8String:",
+        "callCount": 1
+      },
+      {
+        "methodName": "formatStringWithSeparator:",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringByStandardizingPath",
+        "callCount": 1
+      },
+      {
+        "methodName": "setImage:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFormat:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "substringToIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "characterAtIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdType:andReloadRequest:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMConfig",
+    "methodList": [
+      {
+        "methodName": "peekAdTypeFromConfig:",
+        "callCount": 1
+      },
+      {
+        "methodName": "refreshInterval",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "adTypeFromString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "intVal:numberOrString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithAppKey:configDict:errorReturn:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSUserDefaults",
+    "methodList": [
+      {
+        "methodName": "synchronize",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFloat:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectAtIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setObject:forKey:",
+        "callCount": 2
+      },
+      {
+        "methodName": "setBool:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setInteger:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "floatForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "standardUserDefaults",
+        "callCount": 2
+      },
+      {
+        "methodName": "timeIntervalSinceNow",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKey:",
+        "callCount": 2
+      },
+      {
+        "methodName": "integerForKey:",
+        "callCount": 2
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "boolForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GAD_SBJSON",
+    "methodList": [
+      {
+        "methodName": "stringWithObject:error:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectWithString:error:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "isKindOfClass:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADCachedFile",
+    "methodList": [
+      {
+        "methodName": "initWithDelegate:URL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "headersForResponse:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      },
+      {
+        "methodName": "formatterForHTTPDate",
+        "callCount": 1
+      },
+      {
+        "methodName": "timeIntervalSince1970",
+        "callCount": 1
+      },
+      {
+        "methodName": "dateFromString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringFromDate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADNetworkUtilities",
+    "methodList": [
+      {
+        "methodName": "timeIntervalSinceNow",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "headersFromResponse:",
+        "callCount": 1
+      },
+      {
+        "methodName": "appendQueryParameters:toURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      },
+      {
+        "methodName": "urlStringWithoutHashFragment:",
+        "callCount": 1
+      },
+      {
+        "methodName": "createArrayOfURLsfromHeader:",
+        "callCount": 1
+      },
+      {
+        "methodName": "componentsSeparatedByString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "expirationDateFromHeaders:",
+        "callCount": 1
+      },
+      {
+        "methodName": "encodeURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dateFromHttpDateString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setUserAgentString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "timeIntervalSinceDate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "userAgentString",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "parameterValueForKey:fromURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "appendQueryKey:value:toURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "getImpressionTicketFromUrlPath:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSNumber",
+    "methodList": [
+      {
+        "methodName": "numberWithFloat:",
+        "callCount": 1
+      },
+      {
+        "methodName": "boolValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "numberWithDouble:",
+        "callCount": 1
+      },
+      {
+        "methodName": "numberWithBool:",
+        "callCount": 1
+      },
+      {
+        "methodName": "numberWithInt:",
+        "callCount": 1
+      },
+      {
+        "methodName": "numberWithUnsignedInteger:",
+        "callCount": 1
+      },
+      {
+        "methodName": "intValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "numberWithLongLong:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "compare:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebAppViewControllerPrivate",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableURLRequest",
+    "methodList": [
+      {
+        "methodName": "setHTTPShouldHandleCookies:",
+        "callCount": 1
+      },
+      {
+        "methodName": "requestWithURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setValue:forHTTPHeaderField:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCachePolicy:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADIntrinsicImages",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "screenshotOfView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "browserBackButton",
+        "callCount": 1
+      },
+      {
+        "methodName": "browserForwardButton",
+        "callCount": 1
+      },
+      {
+        "methodName": "closeButton",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMacros",
+    "methodList": [
+      {
+        "methodName": "willPresentScreen",
+        "callCount": 1
+      },
+      {
+        "methodName": "setUserInteractionEnabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "delegateManager",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setPublisherIdleTimerDisabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "pubLog:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setInteractingWithParent:",
+        "callCount": 1
+      },
+      {
+        "methodName": "hideStatusBar",
+        "callCount": 1
+      },
+      {
+        "methodName": "setValue:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      },
+      {
+        "methodName": "view",
+        "callCount": 1
+      },
+      {
+        "methodName": "networkExtrasMap",
+        "callCount": 1
+      },
+      {
+        "methodName": "readJsonIntoDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "jsonifyDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "private",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADRequest",
+    "methodList": [
+      {
+        "methodName": "request",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "registerAdNetworkExtras:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setGender:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdditionalParameters:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sdkVersion",
+        "callCount": 1
+      },
+      {
+        "methodName": "setKeywords:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBirthday:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTesting:",
+        "callCount": 1
+      },
+      {
+        "methodName": "userLocationDescription",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLocationWithDescription:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSArray",
+    "methodList": [
+      {
+        "methodName": "initWithContentsOfFile:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKeyedSubscript:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectAtIndexedSubscript:",
+        "callCount": 1
+      },
+      {
+        "methodName": "count",
+        "callCount": 1
+      },
+      {
+        "methodName": "containsObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithObjects:count:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayByAddingObjectsFromArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithObjects:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithArray:copyItems:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "LegalViewController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "AddCurrencyCell",
+    "methodList": [
+      {
+        "methodName": "initWitReuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setIsoCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addCurrencyCellView",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessoryType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setChecked:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSelectionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNeedsDisplay",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSSet",
+    "methodList": [
+      {
+        "methodName": "setWithObject:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSDictionary",
+    "methodList": [
+      {
+        "methodName": "dictionaryWithObject:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionary",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithContentsOfFile:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithDictionary:copyItems:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithObjectsAndKeys:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithObjectsAndKeys:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithContentsOfFile:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithObjects:forKeys:count:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UINavigationController",
+    "methodList": [
+      {
+        "methodName": "setModalPresentationStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBarStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "navigationBar",
+        "callCount": 1
+      },
+      {
+        "methodName": "setModalTransitionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithRootViewController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIMenuController",
+    "methodList": [
+      {
+        "methodName": "isMenuVisible",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTargetRect:inView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedMenuController",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMenuVisible:animated:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableString",
+    "methodList": [
+      {
+        "methodName": "appendString:",
+        "callCount": 2
+      },
+      {
+        "methodName": "stringByAppendingString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "substringFromIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "string",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithString:",
+        "callCount": 2
+      },
+      {
+        "methodName": "stringWithFormat:",
+        "callCount": 1
+      },
+      {
+        "methodName": "appendFormat:",
+        "callCount": 1
+      },
+      {
+        "methodName": "count",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectAtIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "componentsSeparatedByString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "substringToIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithCapacity:",
+        "callCount": 1
+      },
+      {
+        "methodName": "UTF8String",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSError",
+    "methodList": [
+      {
+        "methodName": "errorWithDomain:code:userInfo:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADInterstitial",
+    "methodList": [
+      {
+        "methodName": "setAdUnitID:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIApplication",
+    "methodList": [
+      {
+        "methodName": "performSelector:withObject:afterDelay:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setStatusBarStyle:animated:",
+        "callCount": 1
+      },
+      {
+        "methodName": "endBackgroundTask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "statusBarOrientation",
+        "callCount": 1
+      },
+      {
+        "methodName": "isStatusBarHidden",
+        "callCount": 1
+      },
+      {
+        "methodName": "isIdleTimerDisabled",
+        "callCount": 1
+      },
+      {
+        "methodName": "setIdleTimerDisabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setStatusBarHidden:",
+        "callCount": 1
+      },
+      {
+        "methodName": "applicationState",
+        "callCount": 1
+      },
+      {
+        "methodName": "canOpenURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedApplication",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNetworkActivityIndicatorVisible:",
+        "callCount": 1
+      },
+      {
+        "methodName": "respondsToSelector:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIDevice",
+    "methodList": [
+      {
+        "methodName": "respondsToSelector:",
+        "callCount": 2
+      },
+      {
+        "methodName": "userInterfaceIdiom",
+        "callCount": 2
+      },
+      {
+        "methodName": "orientation",
+        "callCount": 1
+      },
+      {
+        "methodName": "currenciesController",
+        "callCount": 1
+      },
+      {
+        "methodName": "intValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "indexPathForRow:inSection:",
+        "callCount": 1
+      },
+      {
+        "methodName": "currentDevice",
+        "callCount": 2
+      },
+      {
+        "methodName": "systemVersion",
+        "callCount": 1
+      },
+      {
+        "methodName": "model",
+        "callCount": 1
+      },
+      {
+        "methodName": "object",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLeftBarButtonItem:animated:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIAlertView",
+    "methodList": [
+      {
+        "methodName": "addButtonWithTitle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "show",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableArray",
+    "methodList": [
+      {
+        "methodName": "arrayWithObjects:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithCapacity:",
+        "callCount": 2
+      },
+      {
+        "methodName": "addObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "array",
+        "callCount": 2
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "sortedArrayUsingFunction:context:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addObjectsFromArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "containsObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 2
+      },
+      {
+        "methodName": "arrayWithArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "arrayWithCapacity:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADCustomEventRequest",
+    "methodList": [
+      {
+        "methodName": "initWithConnector:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADStatistics",
+    "methodList": [
+      {
+        "methodName": "adapterExitCodesParameter",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "adapterDurationsParameter",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeTimingNamed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "parameters",
+        "callCount": 1
+      },
+      {
+        "methodName": "containsObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAppOpenInterstitialNoFill",
+        "callCount": 1
+      },
+      {
+        "methodName": "startTimingNamed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sessionId",
+        "callCount": 1
+      },
+      {
+        "methodName": "allTimingNames",
+        "callCount": 1
+      },
+      {
+        "methodName": "incrementAdRequestCount",
+        "callCount": 1
+      },
+      {
+        "methodName": "sessionTimingNames",
+        "callCount": 1
+      },
+      {
+        "methodName": "endTimingNamed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "endTimingAdapterWithExitCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAppOpenInterstitialTimeOut",
+        "callCount": 1
+      },
+      {
+        "methodName": "timingNamed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBreakOutToSafari",
+        "callCount": 1
+      },
+      {
+        "methodName": "seedRandomIfNecessary",
+        "callCount": 1
+      },
+      {
+        "methodName": "sessionStatsNames",
+        "callCount": 1
+      },
+      {
+        "methodName": "incrementOfflineAdRequestCount",
+        "callCount": 1
+      },
+      {
+        "methodName": "copy",
+        "callCount": 1
+      },
+      {
+        "methodName": "startTimingAdapter",
+        "callCount": 1
+      },
+      {
+        "methodName": "resetTimingAdapters",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedStatistics",
+        "callCount": 1
+      },
+      {
+        "methodName": "randomUInt64",
+        "callCount": 1
+      },
+      {
+        "methodName": "urlForClick:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addClickTrackingURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADRequestPrivate",
+    "methodList": [
+      {
+        "methodName": "initWithRequest:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "allocWithZone:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "Downloader",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithUrl:delegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "startWithTimeout:",
+        "callCount": 1
+      },
+      {
+        "methodName": "start",
+        "callCount": 1
+      },
+      {
+        "methodName": "startWithUrl:timeout:delegate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMSharedContext",
+    "methodList": [
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "getSeqNumAndIncrement",
+        "callCount": 1
+      },
+      {
+        "methodName": "sessionId",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADIdentifierUtilities",
+    "methodList": [
+      {
+        "methodName": "count",
+        "callCount": 1
+      },
+      {
+        "methodName": "componentsSeparatedByString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "deviceSubmodel",
+        "callCount": 1
+      },
+      {
+        "methodName": "parameters",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectAtIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "canOpenURLs:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "osVersion",
+        "callCount": 1
+      },
+      {
+        "methodName": "isJailbroken",
+        "callCount": 1
+      },
+      {
+        "methodName": "getOSMajor:minor:bugFix:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isOSAtLeastMajor:minor:bug:",
+        "callCount": 1
+      },
+      {
+        "methodName": "readITunesMetadataFileAt:",
+        "callCount": 1
+      },
+      {
+        "methodName": "intValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "isOrientationLandscape",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableSet",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "set",
+        "callCount": 1
+      },
+      {
+        "methodName": "addObject:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MFMessageComposeViewController",
+    "methodList": [
+      {
+        "methodName": "setRecipients:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "setModalTransitionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "canSendText",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBody:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMessageComposeDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADCachedURLResponse",
+    "methodList": [
+      {
+        "methodName": "setDestinationURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithResponse:data:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setExpireDate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIFont",
+    "methodList": [
+      {
+        "methodName": "systemFontOfSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "boldSystemFontOfSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "fontWithName:size:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSCompoundPredicate",
+    "methodList": [
+      {
+        "methodName": "evaluateWithObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "orPredicateWithSubpredicates:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "SettingsViewController",
+    "methodList": [
+      {
+        "methodName": "setDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "updateRatesValueForRefreshInterval:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrenciesController:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UITableViewCell",
+    "methodList": [
+      {
+        "methodName": "setText:",
+        "callCount": 1
+      },
+      {
+        "methodName": "insertSubview:aboveSubview:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithStyle:reuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "detailTextLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTag:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSelectionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "textLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "textColor",
+        "callCount": 1
+      },
+      {
+        "methodName": "textAlignment",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLineBreakMode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTextColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessoryType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTextAlignment:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFont:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNumberOfLines:",
+        "callCount": 1
+      },
+      {
+        "methodName": "insertSubview:belowSubview:",
+        "callCount": 1
+      },
+      {
+        "methodName": "contentView",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GAD_GTMStringEncoding",
+    "methodList": [
+      {
+        "methodName": "setDoPad:",
+        "callCount": 1
+      },
+      {
+        "methodName": "encode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "rfc4648Base64StringEncoding",
+        "callCount": 1
+      },
+      {
+        "methodName": "rfc4648Base64WebsafeStringEncoding",
+        "callCount": 1
+      },
+      {
+        "methodName": "decode:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSData",
+    "methodList": [
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "dataWithContentsOfURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dataWithContentsOfFile:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSNumberFormatter",
+    "methodList": [
+      {
+        "methodName": "stringFromNumber:",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencySymbol:",
+        "callCount": 1
+      },
+      {
+        "methodName": "positiveSuffix",
+        "callCount": 1
+      },
+      {
+        "methodName": "setInternationalCurrencySymbol:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setUsesGroupingSeparator:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNumberStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setPositiveSuffix:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLocale:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMinimumFractionDigits:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setGroupingSeparator:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "negativeSuffix",
+        "callCount": 1
+      },
+      {
+        "methodName": "row",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNegativeSuffix:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableDictionary",
+    "methodList": [
+      {
+        "methodName": "initWithDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setValue:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addEntriesFromDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionary",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCountLimit:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithCapacity:",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeObjectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "setObject:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithObjectsAndKeys:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithDictionary:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "dictionaryWithCapacity:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "Currency",
+    "methodList": [
+      {
+        "methodName": "setIsoCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "allocWithZone:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSymbol:",
+        "callCount": 1
+      },
+      {
+        "methodName": "copy",
+        "callCount": 1
+      },
+      {
+        "methodName": "isoCode",
+        "callCount": 1
+      },
+      {
+        "methodName": "setName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UITableView",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:style:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADNetworkChecker",
+    "methodList": [
+      {
+        "methodName": "networkTypeString",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedChecker",
+        "callCount": 1
+      },
+      {
+        "methodName": "setEnabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "networkType",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIPasteboard",
+    "methodList": [
+      {
+        "methodName": "setString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "substringWithRange:",
+        "callCount": 1
+      },
+      {
+        "methodName": "string",
+        "callCount": 1
+      },
+      {
+        "methodName": "generalPasteboard",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADBrowserController",
+    "methodList": [
+      {
+        "methodName": "setOpeningWebView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSupportedOrientations:",
+        "callCount": 1
+      },
+      {
+        "methodName": "load:referringURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegateManager:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "presentFromViewController:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSBundle",
+    "methodList": [
+      {
+        "methodName": "mainBundle",
+        "callCount": 2
+      },
+      {
+        "methodName": "hasError",
+        "callCount": 1
+      },
+      {
+        "methodName": "formatStringWithSeparator:",
+        "callCount": 1
+      },
+      {
+        "methodName": "navigationItem",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setPrompt:",
+        "callCount": 1
+      },
+      {
+        "methodName": "developmentLocalization",
+        "callCount": 1
+      },
+      {
+        "methodName": "bundleIdentifier",
+        "callCount": 1
+      },
+      {
+        "methodName": "localizedStringForKey:value:table:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectForInfoDictionaryKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "viewportString",
+        "callCount": 1
+      },
+      {
+        "methodName": "localizations",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLocalization:",
+        "callCount": 1
+      },
+      {
+        "methodName": "preferredLocalizationsFromArray:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectAtIndex:",
+        "callCount": 1
+      },
+      {
+        "methodName": "count",
+        "callCount": 1
+      },
+      {
+        "methodName": "containsObject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "pathForResource:ofType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "copy",
+        "callCount": 1
+      },
+      {
+        "methodName": "setOn:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMRAIDInterceptor",
+    "methodList": [
+      {
+        "methodName": "refererURLFromRequest:",
+        "callCount": 2
+      },
+      {
+        "methodName": "setInterstitialImplementationPath:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBannerImplementationPath:",
+        "callCount": 1
+      },
+      {
+        "methodName": "shouldRedirectForMRAID:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setExpandedBannerImplementationPath:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyRatesController",
+    "methodList": [
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "refresh:",
+        "callCount": 1
+      },
+      {
+        "methodName": "forcedRefresh",
+        "callCount": 1
+      },
+      {
+        "methodName": "rateForCurrencyCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isRefreshing",
+        "callCount": 1
+      },
+      {
+        "methodName": "refreshIfCacheExpired",
+        "callCount": 1
+      },
+      {
+        "methodName": "floatValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMNSURLConnectionFactory",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedFactory",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIActionSheet",
+    "methodList": [
+      {
+        "methodName": "symbol",
+        "callCount": 1
+      },
+      {
+        "methodName": "pushViewController:animated:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "isoCode",
+        "callCount": 1
+      },
+      {
+        "methodName": "name",
+        "callCount": 1
+      },
+      {
+        "methodName": "navigationController",
+        "callCount": 1
+      },
+      {
+        "methodName": "showInView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "showFromRect:inView:animated:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADTimingManager",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithIdentifier:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIActivityIndicatorView",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "sizeToFit",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCenter:",
+        "callCount": 1
+      },
+      {
+        "methodName": "startAnimating",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithActivityIndicatorStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMAdNetworkConnectorBanner",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "setGadmDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdManager:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MKPolygonView",
+    "methodList": [
+      {
+        "methodName": "setFillColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setStrokeColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithPolygon:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLineWidth:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSTimer",
+    "methodList": [
+      {
+        "methodName": "retain",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "Calculator",
+    "methodList": [
+      {
+        "methodName": "hasError",
+        "callCount": 1
+      },
+      {
+        "methodName": "tempString",
+        "callCount": 1
+      },
+      {
+        "methodName": "pressed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "op",
+        "callCount": 2
+      },
+      {
+        "methodName": "sharedInstance",
+        "callCount": 2
+      },
+      {
+        "methodName": "setString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "reset",
+        "callCount": 1
+      },
+      {
+        "methodName": "viewportString",
+        "callCount": 1
+      },
+      {
+        "methodName": "hasOverflow",
+        "callCount": 1
+      },
+      {
+        "methodName": "floatValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADSearchObjectPrivate",
+    "methodList": [
+      {
+        "methodName": "initWithView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADStatisticsCore",
+    "methodList": [
+      {
+        "methodName": "compare:",
+        "callCount": 1
+      },
+      {
+        "methodName": "synchronize",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDate:forKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "dateForKey:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSHTTPURLResponse",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "localizedStringForStatusCode:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADLocation",
+    "methodList": [
+      {
+        "methodName": "initWithDescription:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTimestamp:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithLatitude:longitude:accuracy:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADUIWebViewGestureDelgate",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADCustomEventExtras",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSDateComponents",
+    "methodList": [
+      {
+        "methodName": "setYear:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMonth:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDay:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIWebView",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MapAnnotation",
+    "methodList": [
+      {
+        "methodName": "setIsoCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCountry:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCountryCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLatitude:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLongitude:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isoCode",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADRequestError",
+    "methodList": [
+      {
+        "methodName": "errorWithCode:request:httpStatusCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "errorWithCode:request:",
+        "callCount": 1
+      },
+      {
+        "methodName": "errorWithCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "errorWithCode:customMessage:",
+        "callCount": 1
+      },
+      {
+        "methodName": "localizedStringForErrorCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADClickTrackerCollection",
+    "methodList": [
+      {
+        "methodName": "processTouchSignals:",
+        "callCount": 1
+      },
+      {
+        "methodName": "trackURLs:",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "trackURL:appendSpamSignals:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADViewControllerPrivate",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADNumberUtilities",
+    "methodList": [
+      {
+        "methodName": "md5OfString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringWithFloat:",
+        "callCount": 2
+      }
+    ]
+  },
+  {
+    "className": "GADDelegateManager",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIToolbar",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTintColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addSubview:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSCalendar",
+    "methodList": [
+      {
+        "methodName": "dateFromComponents:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithCalendarIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADAdType",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "bannerAdTypeForSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initForInterstitial",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "interstitialAdType",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIBarButtonItem",
+    "methodList": [
+      {
+        "methodName": "setEnabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessibilityLabel:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setWidth:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithTitle:style:target:action:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setIsAccessibilityElement:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithCustomView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithImage:style:target:action:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MapViewController",
+    "methodList": [
+      {
+        "methodName": "setMapRegion:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrenciesController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithNibName:bundle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADBrowserControllerPrivate",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencySourceCell",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithStyle:reuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "textLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBackgroundColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setText:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebViewPrivate",
+    "methodList": [
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMUtilities",
+    "methodList": [
+      {
+        "methodName": "replace:with:inString:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIImage",
+    "methodList": [
+      {
+        "methodName": "imageWithCGImage:",
+        "callCount": 1
+      },
+      {
+        "methodName": "drawAtPoint:",
+        "callCount": 1
+      },
+      {
+        "methodName": "imageWithData:",
+        "callCount": 1
+      },
+      {
+        "methodName": "imageWithCGImage:scale:orientation:",
+        "callCount": 2
+      },
+      {
+        "methodName": "drawInRect:",
+        "callCount": 1
+      },
+      {
+        "methodName": "respondsToSelector:",
+        "callCount": 1
+      },
+      {
+        "methodName": "imageNamed:",
+        "callCount": 1
+      },
+      {
+        "methodName": "CGImage",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADViewController",
+    "methodList": [
+      {
+        "methodName": "orientationFromString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UISwitch",
+    "methodList": [
+      {
+        "methodName": "setSelectionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "textLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "setText:",
+        "callCount": 1
+      },
+      {
+        "methodName": "subviews",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessoryType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "contentView",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "row",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADInterstitialAppController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADAdURLStash",
+    "methodList": [
+      {
+        "methodName": "isInterstitial",
+        "callCount": 1
+      },
+      {
+        "methodName": "setIsMRAID:",
+        "callCount": 1
+      },
+      {
+        "methodName": "delegate",
+        "callCount": 1
+      },
+      {
+        "methodName": "remove:",
+        "callCount": 1
+      },
+      {
+        "methodName": "objectPrivate",
+        "callCount": 1
+      },
+      {
+        "methodName": "adType",
+        "callCount": 1
+      },
+      {
+        "methodName": "isKindOfClass:",
+        "callCount": 1
+      },
+      {
+        "methodName": "canonicalURLForURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "viewForURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "add:forView:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UILabel",
+    "methodList": [
+      {
+        "methodName": "setTextAlignment:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setShadowColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTextColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "text",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBaselineAdjustment:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBackgroundColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "lineBreakMode",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setShadowOffset:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdjustsFontSizeToFitWidth:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNumberOfLines:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLineBreakMode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setText:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMinimumFontSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFont:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "font",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UITextField",
+    "methodList": [
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMinimumFontSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTextColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "contentView",
+        "callCount": 1
+      },
+      {
+        "methodName": "text",
+        "callCount": 1
+      },
+      {
+        "methodName": "subviews",
+        "callCount": 1
+      },
+      {
+        "methodName": "setKeyboardType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "textLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "detailTextLabel",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBackgroundColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setText:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdjustsFontSizeToFitWidth:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSelectionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAccessoryType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTextAlignment:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSFileManager",
+    "methodList": [
+      {
+        "methodName": "defaultManager",
+        "callCount": 1
+      },
+      {
+        "methodName": "fileExistsAtPath:",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeItemAtPath:error:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MFMailComposeViewController",
+    "methodList": [
+      {
+        "methodName": "setMessageBody:isHTML:",
+        "callCount": 1
+      },
+      {
+        "methodName": "canSendMail",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSubject:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMailComposeDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCcRecipients:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setToRecipients:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setModalTransitionStyle:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setBccRecipients:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSKeyedUnarchiver",
+    "methodList": [
+      {
+        "methodName": "unarchiveObjectWithFile:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSNull",
+    "methodList": [
+      {
+        "methodName": "null",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MKPinAnnotationView",
+    "methodList": [
+      {
+        "methodName": "initWithAnnotation:reuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAnimatesDrop:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLeftCalloutAccessoryView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRightCalloutAccessoryView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setPinColor:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCanShowCallout:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyCellFast",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRoundBottom:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithReuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAmount:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setNeedsDisplay",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMaster:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRoundTop:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyIsoCode:",
+        "callCount": 1
+      },
+      {
+        "methodName": "currencyCellFastView",
+        "callCount": 1
+      },
+      {
+        "methodName": "setEven:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDragging:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIImageView",
+    "methodList": [
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithImage:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSURLConnection",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "connectionWithRequest:delegate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADBrowserWebViewDelegate",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithBrowserController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIWindow",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSScanner",
+    "methodList": [
+      {
+        "methodName": "scanCharactersFromSet:intoString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "scannerWithString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "scanUpToCharactersFromSet:intoString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setScanLocation:",
+        "callCount": 1
+      },
+      {
+        "methodName": "scanInteger:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isAtEnd",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSThread",
+    "methodList": [
+      {
+        "methodName": "isMainThread",
+        "callCount": 1
+      },
+      {
+        "methodName": "currentThread",
+        "callCount": 1
+      },
+      {
+        "methodName": "mainThread",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIButton",
+    "methodList": [
+      {
+        "methodName": "setAutoresizingMask:",
+        "callCount": 1
+      },
+      {
+        "methodName": "buttonWithType:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setShowsTouchWhenHighlighted:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addTarget:action:forControlEvents:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setEnabled:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setImage:forState:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyCellFastView",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADNotificationCenter",
+    "methodList": [
+      {
+        "methodName": "removeObserver:name:object:",
+        "callCount": 1
+      },
+      {
+        "methodName": "removeObserver:",
+        "callCount": 1
+      },
+      {
+        "methodName": "postNotificationName:object:userInfo:",
+        "callCount": 1
+      },
+      {
+        "methodName": "postJSNotification:userInfo:webView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "defaultCenter",
+        "callCount": 1
+      },
+      {
+        "methodName": "addObserver:selector:name:object:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CAGradientLayer",
+    "methodList": [
+      {
+        "methodName": "setLocations:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setColors:",
+        "callCount": 1
+      },
+      {
+        "methodName": "layer",
+        "callCount": 1
+      },
+      {
+        "methodName": "setFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADTiming",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithCategory:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithDictionaryRepresentation:",
+        "callCount": 1
+      },
+      {
+        "methodName": "counter",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableData",
+    "methodList": [
+      {
+        "methodName": "dataWithLength:",
+        "callCount": 1
+      },
+      {
+        "methodName": "data",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLength:",
+        "callCount": 1
+      },
+      {
+        "methodName": "mutableBytes",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "SettingsUpdateRatesViewController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithStyle:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSAutoreleasePool",
+    "methodList": [
+      {
+        "methodName": "new",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyCell",
+    "methodList": [
+      {
+        "methodName": "setEven:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRoundTop:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAmount:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDragging:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setRoundBottom:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyName:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithReuseIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setMaster:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setCurrencyIsoCode:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMAdNetworkConnectorInterstitial",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSDateFormatter",
+    "methodList": [
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "stringFromDate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setLocale:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDateFormat:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "setTimeZone:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADOpener",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegateManager:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "openApp:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSJSONSerialization",
+    "methodList": [
+      {
+        "methodName": "objectForKeyedSubscript:",
+        "callCount": 1
+      },
+      {
+        "methodName": "JSONObjectWithData:options:error:",
+        "callCount": 1
+      },
+      {
+        "methodName": "count",
+        "callCount": 1
+      },
+      {
+        "methodName": "isKindOfClass:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADImpressionTicketGestureRecognizerPrivate",
+    "methodList": [
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSLocale",
+    "methodList": [
+      {
+        "methodName": "objectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithLocaleIdentifier:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "displayNameForKey:value:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "currentLocale",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "characterAtIndex:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSKeyedArchiver",
+    "methodList": [
+      {
+        "methodName": "archiveRootObject:toFile:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADClickTracker",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "trackURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "activeTrackings",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSDecimalNumber",
+    "methodList": [
+      {
+        "methodName": "doubleValue",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqualToNumber:",
+        "callCount": 1
+      },
+      {
+        "methodName": "decimalNumberWithString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "notANumber",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADJavaScriptController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "sharedInstance",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebAppViewController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithWebView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setDelegateManager:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      },
+      {
+        "methodName": "setOpeningWebView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "presentFromViewController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setSupportedOrientations:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSURLProtocol",
+    "methodList": [
+      {
+        "methodName": "unregisterClass:",
+        "callCount": 1
+      },
+      {
+        "methodName": "registerClass:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADBannerView",
+    "methodList": [
+      {
+        "methodName": "setRootViewController:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdUnitID:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithAdSize:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSURL",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "fileURLWithPath:",
+        "callCount": 1
+      },
+      {
+        "methodName": "absoluteString",
+        "callCount": 1
+      },
+      {
+        "methodName": "URLWithString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "length",
+        "callCount": 1
+      },
+      {
+        "methodName": "isKindOfClass:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSCharacterSet",
+    "methodList": [
+      {
+        "methodName": "characterSetWithCharactersInString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "whitespaceAndNewlineCharacterSet",
+        "callCount": 1
+      },
+      {
+        "methodName": "decimalDigitCharacterSet",
+        "callCount": 1
+      },
+      {
+        "methodName": "whitespaceCharacterSet",
+        "callCount": 1
+      },
+      {
+        "methodName": "characterIsMember:",
+        "callCount": 1
+      },
+      {
+        "methodName": "punctuationCharacterSet",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMAdNetworkConfig",
+    "methodList": [
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithDictionary:error:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UISearchBar",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UILocalizedIndexedCollation",
+    "methodList": [
+      {
+        "methodName": "currentCollation",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "ADBannerView",
+    "methodList": [
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "AboutViewController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrenciesController",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIScreen",
+    "methodList": [
+      {
+        "methodName": "scale",
+        "callCount": 1
+      },
+      {
+        "methodName": "respondsToSelector:",
+        "callCount": 1
+      },
+      {
+        "methodName": "mainScreen",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADObjectPrivate",
+    "methodList": [
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "release",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMAdSizeUtilities",
+    "methodList": [
+      {
+        "methodName": "decodeNSValue:toGADAdSize:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSPropertyListSerialization",
+    "methodList": [
+      {
+        "methodName": "isKindOfClass:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebViewDelegate",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSTimeZone",
+    "methodList": [
+      {
+        "methodName": "timeZoneWithAbbreviation:",
+        "callCount": 1
+      },
+      {
+        "methodName": "timeZoneForSecondsFromGMT:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADAdMobExtras",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "setAdditionalParameters:",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADPrivateUtilities",
+    "methodList": [
+      {
+        "methodName": "removePrivateObjectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "isEqual:",
+        "callCount": 1
+      },
+      {
+        "methodName": "setURL:forView:",
+        "callCount": 1
+      },
+      {
+        "methodName": "privateObjectForKey:",
+        "callCount": 1
+      },
+      {
+        "methodName": "url",
+        "callCount": 1
+      },
+      {
+        "methodName": "setPrivateObject:forKey:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADBannerWebViewDelegate",
+    "methodList": [
+      {
+        "methodName": "initWithObjectPrivate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSIndexPath",
+    "methodList": [
+      {
+        "methodName": "indexPathForRow:inSection:",
+        "callCount": 2
+      },
+      {
+        "methodName": "row",
+        "callCount": 1
+      },
+      {
+        "methodName": "section",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADURLConnection",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "cacheKeyForURL:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "AddCurrencyCellView",
+    "methodList": [
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyBackgroundView",
+    "methodList": [
+      {
+        "methodName": "initWithFrame:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADWebAppWebViewDelegate",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "autorelease",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithWebAppPrivate:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "DFPExtras",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MKPolygon",
+    "methodList": [
+      {
+        "methodName": "polygonWithCoordinates:count:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADSearchRequestPrivate",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "allocWithZone:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADAdFetcher",
+    "methodList": [
+      {
+        "methodName": "initWithDelegate:",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSMutableCharacterSet",
+    "methodList": [
+      {
+        "methodName": "characterSetWithRange:",
+        "callCount": 1
+      },
+      {
+        "methodName": "addCharactersInString:",
+        "callCount": 1
+      },
+      {
+        "methodName": "retain",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMAdManager",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADMToGADGlue",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "init",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSValue",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      },
+      {
+        "methodName": "value:withObjCType:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSPredicate",
+    "methodList": [
+      {
+        "methodName": "predicateWithFormat:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "UIPopoverController",
+    "methodList": [
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "initWithContentViewController:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "GADImpressionTicketGestureRecognizer",
+    "methodList": [
+      {
+        "methodName": "init",
+        "callCount": 1
+      },
+      {
+        "methodName": "alloc",
+        "callCount": 1
+      },
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSRunLoop",
+    "methodList": [
+      {
+        "methodName": "currentRunLoop",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSAssertionHandler",
+    "methodList": [
+      {
+        "methodName": "currentHandler",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "MKUserLocation",
+    "methodList": [
+      {
+        "methodName": "class",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "CurrencyAppDelegate",
+    "methodList": [
+      {
+        "methodName": "shouldAutorotateToInterfaceOrientation:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSURLRequest",
+    "methodList": [
+      {
+        "methodName": "requestWithURL:",
+        "callCount": 1
+      }
+    ]
+  },
+  {
+    "className": "NSNotification",
+    "methodList": [
+      {
+        "methodName": "notificationWithName:object:",
+        "callCount": 1
+      }
+    ]
+  }
+]
